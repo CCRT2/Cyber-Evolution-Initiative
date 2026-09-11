@@ -1,5 +1,7 @@
 # Life Mission
 
+[![Join the Discussion](https://img.shields.io/badge/💬-Join%20the%20Discussion-blue?style=for-the-badge)](https://github.com/CCRT2/Life_Mission/discussions)
+
 ## The Mission
 
 Build a new generation of defensive cybersecurity intelligence: an AI-driven research system that studies how cyberspace has evolved, learns from historical and current attack and defense patterns, generates evidence-backed hypotheses about what may come next, and helps defenders prepare before emerging techniques become widespread.
