@@ -2,6 +2,9 @@
 
 > *"Understanding precedes prediction. Prediction precedes preparation. Preparation protects the future."*
 
+
+## My Statement: I do not hope to be remembered for who I was. I hope to be remembered for the questions I pursued, the knowledge I shared, and the foundation I helped build for those who come after me.
+
 ## Why I Started
 
 I did not begin this journey to build another piece of software.
