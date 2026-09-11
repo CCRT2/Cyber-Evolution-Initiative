@@ -40,14 +40,17 @@ This document contains the questions that define my life's work. Some may take d
 
 ## My Questions
 
-This document is designed to remain unfinished. Every answer should generate new questions, and every discovery should reveal new areas of uncertainty. If one day there are no meaningful questions left to add, then either the mission is complete or curiosity has ended.
-
-Every new question belongs here.
-
+``` <-----> ```
 
 
 
 # Predictions 
+
+- Can long-term technological trends be forecast with measurable accuracy?
+- What early indicators consistently precede new attack techniques?
+- How far into the future can useful cybersecurity forecasts be made?
+- Can multiple weak signals combine into a strong prediction?
+- What makes a prediction scientifically useful rather than merely plausible? 
 
 
 
@@ -55,11 +58,20 @@ Every new question belongs here.
 
 # Data & Evidence
 
+- What data contains the strongest predictive signal?
+- How should conflicting sources of evidence be reconciled?
+- How can uncertainty be quantified rather than ignored?
+- What information is consistently missing from current cybersecurity datasets?
+- Can incomplete or noisy data still produce reliable forecasts?
 
 
 # Human Behavior
 
-
+- How do human incentives shape cyber conflict?
+- Can defender adaptation be modeled over time?
+- How do economic, political, and social factors influence cyber evolution?
+- Can expert analysts and AI consistently outperform either one alone?
+- How does misinformation affect cybersecurity forecasting?
 
 
 
@@ -67,4 +79,7 @@ Every new question belongs here.
 
 Some of these questions may define months of research. Others may define decades.
 
-Until they are answered, this document will continue to grow.
+This document is designed to remain unfinished. Every answer should generate new questions, and every discovery should reveal new areas of uncertainty.
+Some of these questions may define months of research. Others may define decades. A few may remain unanswered for the rest of my lifetime.
+That is not a failure. It is the nature of scientific inquiry.
+As long as there are meaningful questions left to ask, this document will continue to grow.
