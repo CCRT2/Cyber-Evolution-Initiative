@@ -118,5 +118,8 @@ Outcome Measurement
 Learning
    └───────────────↺
 ```
+## Phase 10 - Implementation
+
+This marks the final phase of private development. After this phase, the project will become publicly visible, allowing others to follow its progress. The source code may remain closed until a future release, at which point selected components may be open-sourced as the project matures.
 
 The final system should never be treated as an oracle. It should behave like a continuously tested scientific instrument: useful, measurable, transparent about uncertainty, and willing to be wrong.
