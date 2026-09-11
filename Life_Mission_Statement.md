@@ -28,3 +28,6 @@ Everything I build, every paper I read, every experiment I run, every line of co
 **Can humanity understand the evolution of cyberspace well enough to anticipate the future instead of merely reacting to it?**
 
 Until that question is answered, my work is not finished.
+
+
+AI architectures are limited not only by computing power, but by our incomplete understanding of intelligence itself.
