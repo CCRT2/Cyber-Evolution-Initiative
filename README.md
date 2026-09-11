@@ -1,6 +1,9 @@
 # Life Mission
 
-[![Join the Discussion](https://img.shields.io/badge/💬-Join%20the%20Discussion-blue?style=for-the-badge)](https://github.com/CCRT2/Life_Mission/discussions)
+[![Research](https://img.shields.io/badge/🔬_Research-Explore-success?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/tree/main/Research)
+[![Questions](https://img.shields.io/badge/❓_Questions-Explore-blue?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/tree/main/Questions)
+[![Community](https://img.shields.io/badge/👥_Community-Join-orange?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/tree/main/Community)
+[![Discussions](https://img.shields.io/badge/💬_Discussions-Join-purple?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/discussions)
 
 ## The Mission
 
