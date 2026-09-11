@@ -120,6 +120,10 @@ Learning
 ```
 ## Phase 10 - Implementation
 
-This marks the final phase of private development. After this phase, the project will become publicly visible, allowing others to follow its progress. The source code may remain closed until a future release, at which point selected components may be open-sourced as the project matures.
+This phase marks the transition from foundational research to implementation. It is the final stage of private development before the project becomes publicly visible, allowing others to follow its progress, methodology, and findings. While the repository will be public, the source code may remain closed until future releases, when selected components may be open-sourced as the project matures.
 
-The final system should never be treated as an oracle. It should behave like a continuously tested scientific instrument: useful, measurable, transparent about uncertainty, and willing to be wrong.
+The objective of this phase is not simply to build an AI system, but to implement and validate the ideas developed throughout the preceding research. Every component should be grounded in evidence, evaluated through controlled experimentation, and measured against clearly defined success criteria.
+
+The completed system should never be regarded as an oracle or a source of unquestionable truth. Instead, it should function as a continuously evaluated scientific instrument: transparent in its reasoning, calibrated in its confidence, explicit about its uncertainty, and always open to revision when presented with new evidence.
+
+Implementation is therefore not the end of the project. It marks the beginning of a continuous cycle of observation, hypothesis generation, experimentation, evaluation, and refinement. As cyberspace evolves, the system must evolve with it, learning from new evidence while remaining grounded in scientific rigor and responsible defensive cybersecurity research.
