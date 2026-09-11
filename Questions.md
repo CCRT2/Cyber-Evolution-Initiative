@@ -40,9 +40,30 @@ This document contains the questions that define my life's work. Some may take d
 
 ## My Questions
 
-This section is intentionally unfinished.
+This document is designed to remain unfinished. Every answer should generate new questions, and every discovery should reveal new areas of uncertainty. If one day there are no meaningful questions left to add, then either the mission is complete or curiosity has ended.
 
 Every new question belongs here.
+
+
+
+
+# Predictions 
+
+
+
+
+
+# Data & Evidence
+
+
+
+# Human Behavior
+
+
+
+
+
+
 
 Some of these questions may define months of research. Others may define decades.
 
