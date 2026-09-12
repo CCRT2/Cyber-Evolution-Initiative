@@ -10,11 +10,23 @@ Rather than treating cybersecurity as an endless cycle of reaction, CEI explores
 
 ## 🚀 Explore the Initiative
 
-[![🔬 Research](https://img.shields.io/badge/Research-Explore-success?style=for-the-badge)](./Research)
-[![❓ Questions](https://img.shields.io/badge/Questions-Explore-blue?style=for-the-badge)](./Questions)
-[![👥 Community](https://img.shields.io/badge/Community-Join-orange?style=for-the-badge)](./Community)
-[![💬 Discussions](https://img.shields.io/badge/Discussions-Participate-purple?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/discussions)
-[![🗺️ Roadmap](https://img.shields.io/badge/Roadmap-View-red?style=for-the-badge)](./ROADMAP.md)
+<p align="center">
+  <a href="./Research">
+    <img src="https://img.shields.io/badge/🔬_Research-Explore-success?style=for-the-badge" />
+  </a>
+  <a href="./Questions">
+    <img src="https://img.shields.io/badge/❓_Questions-Explore-blue?style=for-the-badge" />
+  </a>
+  <a href="./Community">
+    <img src="https://img.shields.io/badge/👥_Community-Join-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/CCRT2/Cyber-Evolution-Initiative/discussions">
+    <img src="https://img.shields.io/badge/💬_Discussions-Participate-purple?style=for-the-badge" />
+  </a>
+  <a href="./ROADMAP.md">
+    <img src="https://img.shields.io/badge/🗺️_Roadmap-View-red?style=for-the-badge" />
+  </a>
+</p>
 
 
 <h1 align="center">Cyber Evolution Initiative (CEI)</h1>
