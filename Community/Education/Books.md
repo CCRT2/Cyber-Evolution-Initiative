@@ -1,45 +1,75 @@
 # 📖 Books
 
-Books are useful for one reason: they can give you a lot more context than a ten-minute article.
+Books are useful when you want more than a headline or a 10-minute video.
 
-Here are some that are worth having on a cybersecurity reading list.
+A good book can give you the history, technical details, people, decisions, and context that usually get chopped out of shorter content.
 
-## 1. *Sandworm*
+These are some books worth starting with.
 
-**Andy Greenberg**
+## Cybersecurity History & Investigations
 
-A deep look at Russian cyber operations and the events around NotPetya. Good for seeing how individual technical attacks connect to geopolitics, infrastructure, and real-world consequences.
+### *Sandworm* — Andy Greenberg
 
-## 2. *Countdown to Zero Day*
+A detailed look at Russian cyber operations and the events surrounding NotPetya.
 
-**Kim Zetter**
+Good for understanding how a technical incident can turn into something much larger involving governments, infrastructure, economics, and geopolitics.
 
-A detailed account of Stuxnet and the discovery of a cyber operation that changed how people thought about industrial control systems and cyber weapons.
+### *Countdown to Zero Day* — Kim Zetter
 
-## 3. *The Cuckoo's Egg*
+A deep investigation into Stuxnet and the discovery of a cyber operation targeting industrial systems.
 
-**Clifford Stoll**
+Useful for understanding why attacks against physical systems are different from attacks against ordinary IT environments.
 
-An older story, but still a great one. It shows what early cyber investigation looked like when careful observation and persistence mattered more than having an endless pile of security tooling.
+### *The Cuckoo's Egg* — Clifford Stoll
 
-## 4. *This Is How They Tell Me the World Ends*
+An older story, but an important one.
 
-**Nicole Perlroth**
+It follows an early cyber investigation and shows how much can be discovered through careful observation, persistence, and following small inconsistencies that other people might ignore.
 
-A look at the market around zero-day vulnerabilities and the political and security problems that come with them.
+### *This Is How They Tell Me the World Ends* — Nicole Perlroth
 
-## 5. *Practical Malware Analysis*
+A look at the world around zero-day vulnerabilities, vulnerability markets, governments, and the incentives surrounding offensive cyber capabilities.
 
-**Michael Sikorski & Andrew Honig**
+Useful when you want to look at cybersecurity as an economic and political system instead of only a technical one.
 
-A technical reference for learning how to examine and reverse engineer malware. This one is much more hands-on than the others, so keep a lab handy.
+## Technical
 
-## 📌 How These Fit CEI
+### *Practical Malware Analysis* — Michael Sikorski & Andrew Honig
 
-The point isn't to read five books and magically become a security expert.
+A hands-on reference for examining and reverse engineering malware.
 
-Use them as context.
+This one is considerably more technical than the books above. It makes a lot more sense when you have a safe lab available and actually work through the material.
 
-Read about an incident, compare it with the historical records in CEI, look at how the techniques evolved, and start asking questions.
+## How I'd Use These With CEI
 
-That's where the useful stuff starts.
+Don't read these just to collect titles on a list.
+
+Use them to build context.
+
+Read about an incident.
+
+Look at the technical details.
+
+Compare it with what happened before and after it.
+
+Then start asking questions:
+
+> Did this technique already exist?
+>
+> What changed?
+>
+> Why did it become useful?
+>
+> What defenses appeared afterward?
+>
+> Did attackers adapt again?
+
+That's where the connection to CEI starts becoming interesting.
+
+## Want to Add a Book?
+
+Add books that actually teach something.
+
+Include the author and a short explanation of what the book is useful for. A title by itself isn't very helpful.
+
+And don't feel obligated to only add famous books. Sometimes the obscure technical book on a weird subject ends up being the one that changes how you think about a problem.
