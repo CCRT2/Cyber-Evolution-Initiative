@@ -1,16 +1,39 @@
-# Education
+# 📚 Education
 
-Resources for learning about cybersecurity and related fields.
+This is the part of CEI for learning.
 
-This directory is organized around community-curated educational material, including books, podcasts, talks, courses, articles, and other learning resources.
+Cybersecurity is too damn big for one person to know everything. That's why this directory is a collection of things the community has found useful: books, labs, talks, podcasts, articles, courses, and other resources.
 
-## Sections
+This isn't meant to be a giant link dump.
 
-- `Books/` - Books and reading recommendations
-- `Podcasts/` - Cybersecurity and technology podcasts
-- `Videos-and-Talks/` - Conference talks, lectures, and presentations
-- `Courses-and-Certifications/` - Courses, certifications, and structured learning paths
-- `News-and-Articles/` - Useful articles, newsletters, and current educational reading
-- `Learning-Resources/` - Other high-quality learning material
+A resource should have a reason for being here.
 
-Contributions are welcome. Please verify sources and provide enough context for others to understand why a resource is useful.
+## What You'll Find
+
+- [📖 Books](./Books.md)
+- [🛠️ Learning Resources](./Learning%20Resources.md)
+- [📰 News & Articles](./News%20%26%20Articles.md)
+- [🎙️ Podcasts](./Podcasts.md)
+- [🎥 Videos & Talks](./Videos%20%26%20Talks.md)
+
+## How to Use This
+
+Start with whatever matches what you're trying to learn.
+
+Want hands-on practice? Use the labs.
+
+Want to understand how a real attack happened? Read the books, reports, and articles.
+
+Want to hear researchers talk through a problem? Check the podcasts and conference talks.
+
+There's no single correct way to learn security.
+
+## Adding Something
+
+Found a resource that actually helped you understand something?
+
+Add it.
+
+Include enough context that someone else knows what they're getting into and why you think it's worth their time.
+
+And please don't add something just because it's popular. Popular and useful are not always the same thing.
