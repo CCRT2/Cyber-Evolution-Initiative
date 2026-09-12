@@ -19,6 +19,20 @@ Contributions do not have to be code. Some of the most valuable contributions ar
 
 If you believe you've found an important unanswered question, don't keep it to yourself. Ask it.
 
+<h1 align="center">Cyber Evolution Initiative (CEI)</h1>
+
+<p align="center">
+  A community-driven cybersecurity research initiative documenting the
+  evolution of cyber threats, incidents, malware, vulnerabilities, and
+  defensive technologies.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Dzam3FfGTZ">
+    <img src="https://img.shields.io/badge/💬_Join_the_CEI_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the CEI Discord">
+  </a>
+</p>
+
 ## Guiding Principles
 
 When contributing, please keep these principles in mind:
@@ -54,3 +68,5 @@ Predictions will succeed and fail.
 Understanding will improve.
 
 If you choose to contribute, you are helping build a living body of knowledge whose purpose is not simply to document cybersecurity, but to better understand its evolution and help make the digital world more resilient.
+
+
