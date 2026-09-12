@@ -1,84 +1,100 @@
-# Research
+# 🔬 Research
 
-> *"Research is organized curiosity."*
+This is where the actual research lives.
 
-Welcome to the research archive of the **Cyber Evolution Initiative**.
+The rest of CEI explains the idea, the community, and the methods. This directory is where we collect the evidence and start testing the idea.
 
-This directory contains the evidence, experiments, historical records, hypotheses, and investigations that support the Initiative's mission to better understand the evolution of cyberspace.
+The basic question is simple:
 
-The objective is not simply to collect information, but to transform information into understanding.
+> **Can we learn enough from the history of cyberspace to help defenders prepare for what comes next?**
 
-## Purpose
+I don't want to assume the answer is yes. I want the research to tell us.
 
-Research is the foundation of this project.
+## What Goes Here
 
-Every document, dataset, experiment, and observation should contribute to answering one or more of the Initiative's central research questions.
+The research archive is built around the things we need to study cyber evolution:
 
-The ultimate goal is to determine whether a deeper understanding of cyber evolution can improve defensive cybersecurity through better anticipation, forecasting, and preparedness.
-
-## Research Principles
-
-All research within this repository should strive to be:
-
-- Evidence-based
-- Reproducible
-- Transparent
-- Well-documented
-- Open to revision
-- Respectful of uncertainty
-
-Extraordinary claims require extraordinary evidence.
-
-## Research Areas
-
-Current and future research may include:
-
-- Cybersecurity history
-- Malware evolution
-- Vulnerability research
-- Threat intelligence
-- Artificial intelligence
-- Complex systems
-- Forecasting methodologies
+- Historical incidents
+- Timelines
+- Vulnerabilities
+- Malware
+- Threat actors and campaigns
 - Defensive technologies
-- Human behavior
-- Scientific methodology
-
-Additional areas may be added as the Initiative grows.
-
-## Organization
-
-Each subdirectory focuses on a different aspect of research.
-
-Examples include:
-
-- Historical events and timelines
-- Literature reviews
+- AI and AI-assisted security research
 - Research papers
-- Forecasting experiments
-- Case studies
-- Datasets
-- Hypotheses
-- Validation and evaluation
+- Experiments and validation work
 
-As the repository evolves, this structure will continue to expand.
+Some areas are still empty. That's intentional. An empty folder is better than filling a repository with made-up research just to make it look finished.
 
-## Our Philosophy
+## How The Archive Works
 
-Research is an ongoing process, not a destination.
+A major goal of CEI is to keep different kinds of evidence connected.
 
-Every answer should generate new questions.
+For example, one incident might connect to a vulnerability, a malware family, an attacker, a defensive change, a legal action, and later incidents that reused or changed the same idea.
 
-Every experiment should improve understanding.
+Those connections are what make the archive useful for studying evolution instead of just storing isolated pages.
 
-Every failure should become evidence.
+## Start With The Evidence
 
-Knowledge grows through careful observation, rigorous testing, and a willingness to challenge assumptions.
+Research in CEI should normally move through something like this:
+
+```text
+Observe
+   ↓
+Collect Evidence
+   ↓
+Organize It
+   ↓
+Find Connections
+   ↓
+Ask A Question
+   ↓
+Build A Hypothesis
+   ↓
+Test It
+   ↓
+Record The Result
+```
+
+Not every project will follow this perfectly, but the basic rule is the same: **don't jump from a cool idea straight to a conclusion.**
+
+## What Counts As Good Research Here?
+
+Good research should make it possible for someone else to understand:
+
+- What we know
+- Where the information came from
+- What we think it means
+- What we don't know
+- What could prove us wrong
+- What happened when we tested the idea
+
+A polished explanation isn't enough. The evidence has to hold up too.
+
+## The Empty Folders
+
+A bunch of the folders in this directory currently contain placeholders.
+
+That's fine.
+
+The long-term goal is to fill them with high-quality records rather than rushing to fill the tree. The archive is supposed to grow with the research.
+
+## One Important Rule
+
+**CEI is allowed to be wrong.**
+
+Actually, it needs to be.
+
+If a hypothesis fails, keep the failure. If a forecast misses, record it. If new evidence destroys an earlier conclusion, update the conclusion.
+
+Otherwise we're not doing research. We're building a collection of things we already wanted to believe.
 
 ## Contributing
 
-Researchers, students, cybersecurity professionals, engineers, and curious minds are welcome to contribute.
+You don't need a PhD, a job title, or a massive lab to contribute.
 
-Whether you submit a historical case study, propose a new hypothesis, improve documentation, or share a valuable dataset, your contribution helps build a stronger foundation for understanding the evolution of cyberspace.
+A well-sourced incident timeline, a correction, a useful paper, a better hypothesis, or a reproducible experiment can all move the project forward.
 
-Together, we are building a living body of knowledge dedicated to advancing defensive cybersecurity through scientific inquiry.
+The standard is simple:
+
+**Bring evidence. Explain your reasoning. Be willing to be wrong.**
