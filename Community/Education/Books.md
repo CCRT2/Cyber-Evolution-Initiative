@@ -1,39 +1,45 @@
 # 📖 Books
 
-## 1. Sandworm
+Books are useful for one reason: they can give you a lot more context than a ten-minute article.
 
-**Author:** Andy Greenberg
+Here are some that are worth having on a cybersecurity reading list.
 
-A deep investigation into Russian cyber operations, including NotPetya, and how cyber warfare has evolved into a global threat.
+## 1. *Sandworm*
 
----
+**Andy Greenberg**
 
-## 2. Countdown to Zero Day
+A deep look at Russian cyber operations and the events around NotPetya. Good for seeing how individual technical attacks connect to geopolitics, infrastructure, and real-world consequences.
 
-**Author:** Kim Zetter
+## 2. *Countdown to Zero Day*
 
-An in-depth look at Stuxnet, one of the most sophisticated cyber weapons ever discovered, and its impact on modern cybersecurity.
+**Kim Zetter**
 
----
+A detailed account of Stuxnet and the discovery of a cyber operation that changed how people thought about industrial control systems and cyber weapons.
 
-## 3. The Cuckoo's Egg
+## 3. *The Cuckoo's Egg*
 
-**Author:** Clifford Stoll
+**Clifford Stoll**
 
-A true story of one of the earliest cyber espionage investigations, showing how persistence and curiosity uncovered an international hacker.
+An older story, but still a great one. It shows what early cyber investigation looked like when careful observation and persistence mattered more than having an endless pile of security tooling.
 
----
+## 4. *This Is How They Tell Me the World Ends*
 
-## 4. This Is How They Tell Me the World Ends
+**Nicole Perlroth**
 
-**Author:** Nicole Perlroth
+A look at the market around zero-day vulnerabilities and the political and security problems that come with them.
 
-Explores the global market for zero-day vulnerabilities and the geopolitical implications of offensive cyber capabilities.
+## 5. *Practical Malware Analysis*
 
----
+**Michael Sikorski & Andrew Honig**
 
-## 5. Practical Malware Analysis
+A technical reference for learning how to examine and reverse engineer malware. This one is much more hands-on than the others, so keep a lab handy.
 
-**Authors:** Michael Sikorski & Andrew Honig
+## 📌 How These Fit CEI
 
-A hands-on guide to reverse engineering and analyzing malware, widely regarded as one of the best technical resources for aspiring malware analysts.
+The point isn't to read five books and magically become a security expert.
+
+Use them as context.
+
+Read about an incident, compare it with the historical records in CEI, look at how the techniques evolved, and start asking questions.
+
+That's where the useful stuff starts.
