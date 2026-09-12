@@ -1,41 +1,73 @@
 # 🎥 Videos & Talks
 
-Conference talks and technical videos are a great way to see how researchers actually think through security problems.
+Some security concepts make a lot more sense when you can watch someone work through them.
 
-They also let you hear about techniques directly from the people who discovered, researched, or used them.
+Conference talks are especially useful because you get to hear researchers explain what they found, how they found it, and sometimes where the original assumptions were wrong.
 
-## 1. DEF CON Talks
+## Where to Start
 
-DEF CON has a huge archive of talks covering practically every corner of security: reverse engineering, hardware, malware, exploitation, AI, privacy, social engineering, and more.
+### DEF CON Talks
 
-There is a ridiculous amount of good material here. You don't need to watch everything. Find a topic you're curious about and start digging.
+DEF CON has a massive archive covering pretty much every corner of cybersecurity: reverse engineering, hardware, malware, exploitation, web security, AI, privacy, social engineering, and more.
 
-## 2. Black Hat Briefings
+There is a ridiculous amount of material here.
 
-Black Hat talks often go deep into vulnerability research, exploitation, offensive security, defensive engineering, and emerging technologies.
+Don't try to watch all of it.
 
-Useful when you want to see research presented in a more formal conference setting.
+Find something that makes you curious and start digging.
 
-## 3. RSA Conference Sessions
+### Black Hat Briefings
 
-RSA has a large collection of talks covering enterprise security, cloud, AI, threat intelligence, incident response, policy, and security leadership.
+Black Hat talks often go deep into vulnerability research, exploitation, defensive engineering, offensive security, and emerging technology.
 
-## 4. LiveOverflow
+These are useful when you want technical research presented by people who actually worked on the problem.
 
-Practical videos on binary exploitation, reverse engineering, web security, CTFs, and vulnerability research.
+### RSA Conference Sessions
 
-Especially useful when you want somebody to work through the problem instead of just explaining the answer.
+RSA has a large collection of talks covering enterprise security, cloud security, AI, threat intelligence, incident response, policy, and security leadership.
 
-## 5. John Hammond
+Not every talk will be relevant to CEI, but there is a lot of useful material for understanding the broader security ecosystem.
 
-Videos covering malware analysis, CTFs, digital forensics, reverse engineering, security tooling, and other hands-on topics.
+### LiveOverflow
 
-Good mix of practical work and explanations.
+Practical videos covering binary exploitation, reverse engineering, web security, CTFs, and vulnerability research.
 
-## 🔬 Don't Just Watch
+Great when you want to watch somebody reason through a technical problem instead of getting a polished answer with all the messy parts removed.
 
-Watching ten hours of security videos is still mostly watching videos.
+### John Hammond
 
-Take notes. Reproduce ideas in an authorized lab. Look up the papers and writeups behind a technique. Compare what you learned with real incidents.
+Hands-on videos about malware analysis, CTFs, digital forensics, reverse engineering, security tools, and other practical topics.
 
-The goal is to turn information into understanding.
+Good for learning by watching the process.
+
+## 🎬 Don't Just Watch
+
+Watching ten hours of cybersecurity videos doesn't automatically mean you learned ten hours of cybersecurity.
+
+Try this instead:
+
+```text
+Watch
+  ↓
+Take notes
+  ↓
+Look up the references
+  ↓
+Try the idea in an authorized lab
+  ↓
+Figure out what you got wrong
+  ↓
+Connect it to a real incident
+  ↓
+Write down what actually matters
+```
+
+The goal is not to become really good at consuming cybersecurity content.
+
+The goal is to understand it well enough to use it.
+
+## Adding a Talk or Channel
+
+Add talks, channels, lectures, or conference archives that you genuinely think are useful.
+
+Include a little context about what someone will learn from it. A link with no explanation doesn't help much.
