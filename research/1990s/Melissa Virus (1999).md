@@ -1,12 +1,28 @@
 # Incident Name
 
-> One-sentence summary.
+**Melissa Virus (1999)**
+
+> A macro virus that demonstrated how social engineering, email automation, and trusted communication could rapidly propagate malware worldwide, fundamentally changing cybersecurity's approach to email security and user awareness.
 
 ---
 
 # 1. Incident Overview
 
-Basic metadata
+| Field | Value |
+|-------|-------|
+| **CEI ID** | CEI-1999-001 |
+| **Incident Name** | Melissa Virus |
+| **Also Known As** | W97M/Melissa, Melissa Macro Virus |
+| **Date Started** | March 26, 1999 |
+| **Date Ended** | April 1999 (major outbreak contained) |
+| **Duration** | Several weeks |
+| **Status** | Historical |
+| **Severity** | High |
+| **Incident Type** | Macro Virus, Email-Borne Malware |
+| **Threat Actor** | David L. Smith |
+| **Primary Targets** | Microsoft Word and Outlook users, businesses, government agencies, universities, and financial institutions |
+| **Geographic Scope** | Global |
+| **Source Confidence** | High |
 
 ---
 
