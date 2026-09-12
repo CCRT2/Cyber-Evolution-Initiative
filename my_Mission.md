@@ -1,4 +1,4 @@
-# My Life Mission
+# My Mission
 
 
 Every cyberattack is the consequence of a decision. Every decision is shaped by incentives. Every incentive exists within an evolving technological landscape. If these forces can be understood, then the future of cyberspace is not entirely unpredictable.
