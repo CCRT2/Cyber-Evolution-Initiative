@@ -1,69 +1,114 @@
-# Contributing
+# 🤝 Contributing to CEI
 
-Thank you for your interest in contributing to this project.
+Thanks for wanting to contribute.
 
-This repository is more than a software project. It is a long-term research initiative dedicated to understanding the evolution of cyberspace, improving defensive cybersecurity, and exploring the scientific questions that surround artificial intelligence, forecasting, and complex systems.
+CEI is a research project first and a software repository second. That means a useful contribution isn't always code. A good timeline, a correction, a source, a question, or an experiment idea can be just as important.
 
-## Ways to Contribute
-
-Contributions are not limited to source code. Valuable contributions include:
-
-- Research questions
-- Historical cybersecurity events
-- Academic papers and literature reviews
-- Datasets and references
-- Timeline improvements
-- Documentation
-- Experiment proposals
-- Forecasting methodologies
-- Corrections supported by evidence
-- Code that advances the project's research goals
-
-## Before You Contribute
+## Before You Open a PR
 
 Ask yourself:
 
-- Does this contribution help answer one of the project's research questions?
-- Is it supported by evidence?
-- Can others reproduce or verify the work?
-- Does it improve understanding rather than simply add complexity?
+- What is this changing?
+- Why does it belong in CEI?
+- What evidence supports it?
+- Can somebody else check what I did?
+- Am I adding useful information, or just making the repo bigger?
 
-If the answer is yes, your contribution is likely welcome.
+Bigger isn't automatically better.
+
+## Good Contributions
+
+Things we want more of include:
+
+- Historical cyber incidents and timelines
+- Primary sources and technical reports
+- Research papers and literature notes
+- Corrections to existing records
+- New research questions
+- Alternative hypotheses
+- Data and dataset ideas
+- Forecasting methods
+- Experiments and evaluation plans
+- Documentation improvements
+- Tools that help collect, connect, or analyze the data
 
 ## Research Standards
 
-Contributors should strive to:
+### Separate facts from interpretation
 
-- Distinguish facts from hypotheses.
-- Cite reliable and verifiable sources whenever possible.
-- Explain assumptions.
-- Document uncertainty.
-- Record failures as carefully as successes.
-- Remain open to correction when presented with better evidence.
+If a source says something happened, document the source.
 
-Scientific progress depends on reproducibility, transparency, and intellectual honesty.
+If you're interpreting the evidence, make that clear.
+
+If you're guessing, call it a hypothesis or an open question.
+
+### Cite your work
+
+Whenever possible, use primary or otherwise reliable sources. Give other people enough context to verify the claim instead of asking them to take your word for it.
+
+### Keep the date boundary intact
+
+For forecasting research, what was known **when the forecast was made** matters. Don't quietly use information from the future to make a past prediction look better.
+
+### Keep the failures
+
+A failed experiment is still an experiment.
+
+Don't delete a result because it didn't support the idea. Explain what happened and what we learned from it.
+
+## Incident Research
+
+When adding or changing an incident record, try to capture the evidence around it rather than only writing a summary.
+
+Useful material can include:
+
+- Timeline
+- Initial access or known entry point
+- Affected systems
+- Vulnerabilities or techniques
+- Malware or tooling
+- Impact
+- Detection and response
+- Technical reports
+- Public disclosures
+- Legal or regulatory action when relevant
+- What is still unknown
+
+Not every incident will have all of this information. Missing information should be marked as missing, not filled in with assumptions.
 
 ## Pull Requests
 
-Pull requests should include:
+Keep PRs focused when possible.
 
-- A clear description of the change.
-- The motivation behind the change.
-- References or supporting evidence where applicable.
-- Documentation updates when necessary.
+A good PR should explain:
 
-Large contributions are encouraged to begin with an Issue or Discussion before implementation.
+1. What changed.
+2. Why it changed.
+3. What sources or evidence support it.
+4. Anything that is still uncertain.
 
-## Discussions
+For a large structural change, opening an Issue or Discussion first is usually a good idea so the reasoning can be worked out before a mountain of files gets moved around.
 
-Questions are encouraged.
+## Discussions and Disagreement
 
-Disagreement is encouraged.
+You are allowed to disagree.
 
-Constructive criticism is encouraged.
+You are allowed to say a hypothesis is weak.
 
-The goal is not consensus. The goal is a better understanding of the problem.
+You are allowed to say a source doesn't support the conclusion being made.
 
-## Thank You
+Do it with evidence and reasoning, and we're good.
 
-Every contribution, whether it is a question, correction, dataset, experiment, or line of code, helps move this research forward.
+The goal is not for everyone to agree. The goal is for the project to become harder to fool.
+
+## Safety
+
+CEI is defensive research.
+
+Any active technical testing must be done on systems you are explicitly authorized to test, such as your own lab, an approved cyber range, or another controlled environment. Don't turn a research question into an unauthorized experiment against somebody else's infrastructure.
+
+## One Last Thing
+
+You don't need to know everything before contributing.
+
+You just need to be willing to learn, show your work, and correct it when better evidence comes along.
