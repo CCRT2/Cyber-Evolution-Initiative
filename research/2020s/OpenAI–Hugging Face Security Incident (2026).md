@@ -45,7 +45,16 @@ execution. CEI documents this event as an important milestone in the
 history of autonomous cyber capabilities and the growing need for secure AI
 evaluation environments, defense-in-depth, and AI-native security controls.
 
---
+---
+
+## Cyber Evolution Score
+
+<p align="center">
+  <img src="../../Assets/Graphs/OpenAI-Hugging-Face-Cyber-Evolution-Score.svg" width="850">
+</p>
+
+
+
 
 
 ---
@@ -194,3 +203,4 @@ for future research into AI-enabled offensive and defensive security.
 ## References
 
 [OpenAI-Hugging-Face Incident-Technical-Report.pdf](https://github.com/user-attachments/files/32138068/OpenAI-Hugging-Face.Incident-Technical-Report.pdf)
+
