@@ -2,40 +2,85 @@
 
 Cybersecurity news moves ridiculously fast.
 
-Use these sources to keep up, but don't treat a headline as a primary source. For CEI, news is often the starting point for research, not the final answer.
+Something happens at 9 AM, everyone is posting about it by noon, and by dinner there are 47 versions of the same story floating around.
 
-## 1. The Hacker News
+This list is for finding useful reporting without forgetting one important rule:
 
-A large daily source for vulnerability disclosures, malware, incidents, research, and security industry news.
+**A headline is not evidence.**
 
-Useful for finding things worth investigating further.
+## News Sources
 
-## 2. BleepingComputer
+### The Hacker News
+
+A large daily source for vulnerabilities, incidents, malware, research, and security industry news.
+
+Useful for finding things that are worth digging into.
+
+### BleepingComputer
 
 Strong coverage of active incidents, ransomware, malware, vulnerability disclosures, and practical security news.
 
-Especially useful when something is breaking and you want technical details quickly.
+Especially useful when something is breaking and you want information quickly.
 
-## 3. Krebs on Security
+### Krebs on Security
 
-Independent investigative reporting focused on cybercrime, fraud, breaches, and the people and organizations behind them.
+Investigative reporting on cybercrime, fraud, breaches, and the people and organizations behind them.
 
-Good reminder that cybersecurity is not just code. There are humans, money, incentives, and organizations involved too.
+It's also a good reminder that cybersecurity isn't just technical. Money, incentives, mistakes, and people matter too.
 
-## 4. Dark Reading
+### Dark Reading
 
-Enterprise-focused security reporting covering areas such as cloud, vulnerabilities, AI security, threat intelligence, and defensive operations.
+Enterprise-focused coverage of cloud security, vulnerabilities, AI security, threat intelligence, defensive operations, and broader industry trends.
 
-## 5. SecurityWeek
+### SecurityWeek
 
-Security news and analysis covering vulnerabilities, incident response, critical infrastructure, AI, and broader industry developments.
+Security reporting and analysis covering vulnerabilities, incidents, critical infrastructure, AI, and other major developments.
 
-## 🔍 How CEI Uses News
+## 🔍 How to Read Security News
 
-A news article can tell us that something happened.
+Use news to find the event.
 
-For serious research, we should then look for the original disclosure, incident report, advisory, technical analysis, court filing, dataset, or other primary evidence behind it.
+Then go looking for the source behind the story.
 
-That distinction matters.
+That might be:
+
+- An incident report
+- A vendor disclosure
+- A government advisory
+- A technical paper
+- A vulnerability record
+- A court filing
+- A dataset
+- A researcher writeup
+
+Sometimes the original source won't exist publicly. That's fine. Just say that.
+
+Don't turn an article's speculation into a CEI fact.
+
+## A Simple Rule
+
+```text
+Headline
+   ↓
+Read the article
+   ↓
+Find the original source
+   ↓
+Check the date
+   ↓
+Check what is actually confirmed
+   ↓
+Compare with other evidence
+   ↓
+Then draw a conclusion
+```
 
 **News tells us where to look. Evidence tells us what we can actually say.**
+
+## Adding a Source
+
+Add sources that are useful for actually following cybersecurity.
+
+Tell people what the source is good at and what its limitations are when that matters.
+
+And keep in mind that a source being popular doesn't automatically make every story from it correct.
