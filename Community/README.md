@@ -1,72 +1,94 @@
-# Community
+# 🌐 CEI Community
 
-This project is built on the belief that great questions are often more valuable than immediate answers.
+CEI isn't supposed to be one person talking at everyone else.
 
-While this repository began as my personal research initiative, I welcome thoughtful contributions from anyone who shares an interest in cybersecurity, artificial intelligence, complex systems, philosophy, or scientific inquiry.
+The whole point is to have a place where people can research, question, argue, correct each other, and build on what other people have already found.
 
-## How You Can Contribute
+This repo started as my own project, but I don't want it to stay that way.
 
-Contributions do not have to be code. Some of the most valuable contributions are:
+You don't need to be a professional researcher to contribute. You don't need to write code either. If you found a useful paper, noticed a mistake, researched an incident, came up with a better hypothesis, or just have a question that you think is worth digging into, that belongs here.
 
-- New research questions
-- Historical cybersecurity events and timelines
-- Research papers and summaries
-- Corrections supported by evidence
-- Alternative hypotheses
-- Experiment designs
-- Datasets and references
-- Improvements to documentation
+## What You Can Do Here
 
-If you believe you've found an important unanswered question, don't keep it to yourself. Ask it.
+### 🔎 Research
 
-<h1 align="center">Cyber Evolution Initiative (CEI)</h1>
+Help document cybersecurity incidents, vulnerabilities, malware, attack techniques, defensive changes, papers, and other useful evidence.
 
-<p align="center">
-  A community-driven cybersecurity research initiative documenting the
-  evolution of cyber threats, incidents, malware, vulnerabilities, and
-  defensive technologies.
-</p>
+### ❓ Ask Questions
 
-<p align="center">
-  <a href="https://discord.gg/Dzam3FfGTZ">
-    <img src="https://img.shields.io/badge/💬_Join_the_CEI_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the CEI Discord">
-  </a>
-</p>
+Some of the best research starts with a question nobody has answered properly yet.
 
-## Guiding Principles
+Put the question down. Define what we know. Define what we don't know. Then figure out how we could test it.
 
-When contributing, please keep these principles in mind:
+### 🧪 Challenge Ideas
 
-- Follow the evidence wherever it leads.
-- Distinguish facts from hypotheses.
-- Question assumptions, including your own.
-- Cite reliable sources whenever possible.
-- Respect uncertainty.
-- Be willing to change your mind when presented with better evidence.
-- Treat every contribution as part of a long-term scientific effort.
+You are absolutely allowed to disagree with something in CEI.
+
+Actually, please do.
+
+If a claim is weak, point it out. If a source is bad, replace it. If a hypothesis doesn't survive new evidence, change it.
+
+Being wrong is a normal part of research.
+
+### 📚 Share Resources
+
+Books, papers, technical reports, conference talks, datasets, courses, articles, and anything else that helps people learn are welcome.
+
+### 💻 Build
+
+Code, data pipelines, analysis tools, knowledge graphs, experiments, visualization, forecasting systems, and other tooling can all become part of CEI over time.
+
+## How We Work
+
+The community should follow a few simple rules:
+
+- **Evidence first.** Don't present guesses as facts.
+- **Show your sources.** Give people enough information to check the claim themselves.
+- **Say when you aren't sure.** Uncertainty is useful information.
+- **Challenge the idea, not the person.** Strong criticism is fine. Personal attacks aren't.
+- **Keep failed work.** A bad hypothesis can still teach us something.
+- **Don't manufacture certainty.** A clean-looking answer is not automatically a correct one.
 
 ## Research Over Ego
 
-The purpose of this repository is not to prove that any individual is right.
+CEI isn't here to prove that I'm right.
 
-The purpose is to better understand how cyberspace evolves, how future threats may emerge, and how defenders can prepare for them through rigorous research, experimentation, and collaboration.
+It's not here to prove that you're right either.
 
-Strong disagreement is welcome when it is supported by evidence, logical reasoning, and respectful discussion.
+The goal is to get closer to the truth about how cyberspace changes and whether that history can actually help us prepare for what comes next.
 
-## A Living Repository
+That means some ideas are going to die.
 
-This repository is intended to grow over many years.
+Some predictions are going to be wrong.
 
-Questions will be added.
+Some experiments are going to tell us that a cool idea was, in fact, complete bullshit.
 
-Ideas will evolve.
+That's research.
 
-Hypotheses will be tested.
+## Discord
 
-Predictions will succeed and fail.
+We have a Discord for discussion, research coordination, questions, and general CEI community stuff.
 
-Understanding will improve.
+[💬 Join the CEI Discord](https://discord.gg/Dzam3FfGTZ)
 
-If you choose to contribute, you are helping build a living body of knowledge whose purpose is not simply to document cybersecurity, but to better understand its evolution and help make the digital world more resilient.
+## Education
 
+The [`Education/`](./Education/) directory is a community-curated collection of material for learning cybersecurity and the subjects that connect to CEI.
 
+Start there if you're new, or contribute resources that helped you learn something difficult.
+
+## This Will Change
+
+CEI is still being built.
+
+The structure will change.
+
+The research questions will change.
+
+Some ideas will get thrown out.
+
+New ones will show up.
+
+That's intentional.
+
+A living research project should actually be allowed to evolve.
