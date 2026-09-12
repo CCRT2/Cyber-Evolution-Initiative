@@ -1,0 +1,62 @@
+<svg width="900" height="420" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .title {
+      font: bold 28px Arial, sans-serif;
+      fill: #ffffff;
+    }
+
+    .label {
+      font: 18px Arial, sans-serif;
+      fill: #d1d5db;
+    }
+
+    .value {
+      font: bold 18px Arial, sans-serif;
+      fill: #ffffff;
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <text x="40" y="45" class="title">
+    Cyber Evolution Score
+  </text>
+
+  <!-- Sophistication -->
+  <text x="40" y="95" class="label">Sophistication</text>
+  <rect x="230" y="78" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="78" width="486" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="96" class="value">9 / 10</text>
+
+  <!-- Automation -->
+  <text x="40" y="145" class="label">Automation</text>
+  <rect x="230" y="128" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="128" width="540" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="146" class="value">10 / 10</text>
+
+  <!-- AI -->
+  <text x="40" y="195" class="label">AI Involvement</text>
+  <rect x="230" y="178" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="178" width="540" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="196" class="value">10 / 10</text>
+
+  <!-- Scale -->
+  <text x="40" y="245" class="label">Scale</text>
+  <rect x="230" y="228" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="228" width="324" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="246" class="value">6 / 10</text>
+
+  <!-- Novelty -->
+  <text x="40" y="295" class="label">Novelty</text>
+  <rect x="230" y="278" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="278" width="540" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="296" class="value">10 / 10</text>
+
+  <!-- Global Impact -->
+  <text x="40" y="345" class="label">Global Impact</text>
+  <rect x="230" y="328" width="540" height="24" rx="6" fill="#21262d"/>
+  <rect x="230" y="328" width="378" height="24" rx="6" fill="#2ea043"/>
+  <text x="785" y="346" class="value">7 / 10</text>
+
+</svg>
