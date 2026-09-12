@@ -16,6 +16,20 @@ Rather than treating cybersecurity as an endless cycle of reaction, CEI explores
 [![💬 Discussions](https://img.shields.io/badge/Discussions-Participate-purple?style=for-the-badge)](https://github.com/CCRT2/Cyber-Evolution-Initiative/discussions)
 [![🗺️ Roadmap](https://img.shields.io/badge/Roadmap-View-red?style=for-the-badge)](./ROADMAP.md)
 
+
+<h1 align="center">Cyber Evolution Initiative (CEI)</h1>
+
+<p align="center">
+  A community-driven cybersecurity research initiative documenting the
+  evolution of cyber threats, incidents, malware, vulnerabilities, and
+  defensive technologies.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Dzam3FfGTZ">
+    <img src="https://img.shields.io/badge/💬_Join_the_CEI_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the CEI Discord">
+  </a>
+</p>
 ---
 
 # 🎯 Mission
