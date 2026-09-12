@@ -1,49 +1,65 @@
 # 🎙️ Podcasts
 
-Sometimes the easiest way to learn about a complicated incident is to hear somebody who lived it explain what actually happened.
+Sometimes the easiest way to understand a complicated cyber incident is to hear somebody explain what actually happened.
 
-These are good places to start.
+Podcasts are also useful for hearing the parts that don't always fit neatly into a report: the decisions, mistakes, weird details, and human side of an incident.
 
-## 1. Darknet Diaries
+## Podcasts Worth Checking Out
+
+### Darknet Diaries
 
 **Hosted by Jack Rhysider**
 
-Real stories about hacking, cybercrime, breaches, investigations, and the people involved in them.
+Real stories about hacking, cybercrime, breaches, investigations, and the people involved.
 
-It's especially useful for understanding that an incident is usually a lot messier than the clean timeline in a post-incident report.
+Good for getting the story and human context behind incidents.
 
-## 2. CyberWire Daily
+### CyberWire Daily
 
 **Hosted by Dave Bittner**
 
-A regular cybersecurity news briefing covering current threats, vulnerabilities, incidents, and industry developments.
+Regular cybersecurity news covering current threats, vulnerabilities, incidents, and industry developments.
 
-Good for keeping up with what's happening right now.
+Useful when you want a quick way to keep up with what is happening.
 
-## 3. Risky Business
+### Risky Business
 
 **Hosted by Patrick Gray**
 
 Longer discussions about security news, enterprise security, policy, and the people working in the field.
 
-Useful when you want more context than a headline gives you.
+Good when a headline isn't enough and you want more context.
 
-## 4. Click Here
+### Click Here
 
 **Hosted by Dina Temple-Raston**
 
-Covers the human and geopolitical side of cyber, including espionage, cybercrime, misinformation, and digital security.
+Covers the human and geopolitical side of cybersecurity, including espionage, cybercrime, misinformation, and digital privacy.
 
-## 5. Smashing Security
+### Smashing Security
 
 **Hosted by Graham Cluley & Carole Theriault**
 
-Security news explained with a more relaxed tone. Useful when you want to learn without feeling like you're reading another threat report at 2 AM.
+Cybersecurity news, scams, privacy, and security stories with a more relaxed tone.
+
+Useful when you want to learn something without reading another 80-page report.
 
 ## 🧠 Listen Like a Researcher
 
-A podcast is useful evidence only to the extent that its claims can be checked.
+A podcast can be a great way to discover information, but don't automatically treat everything said on a show as established fact.
 
-When you hear something interesting, follow it back to the source. Find the report. Find the advisory. Find the original disclosure.
+When something catches your attention:
 
-Then put the information into context with the rest of the evidence.
+1. Write down the claim.
+2. Find the source behind it.
+3. Check when the information was available.
+4. Compare it with other evidence.
+5. Decide what you actually know.
+
+That matters a lot for CEI because we're interested in **what was knowable at the time**, not what became obvious later.
+
+## Adding a Podcast
+
+Add shows that teach something useful or regularly surface good research.
+
+Say what the podcast is good for and what kind of listener would probably get the most out of it.
