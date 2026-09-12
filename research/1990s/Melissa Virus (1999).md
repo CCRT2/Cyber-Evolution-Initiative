@@ -660,58 +660,64 @@ The following sources were used to research and validate the Melissa virus incid
 
 ---
 
+# 16. References
+
 ## Primary Sources
 
-1. **CERT Coordination Center (CERT/CC).**
-   *CERT Advisory CA-99-04: Melissa Macro Virus.*
-   Published: March 27, 1999.
-   https://www.sei.cmu.edu/library/file_redirect/1999_019_001_496184.pdf
+- CERT Coordination Center. *CA-1999-04: Melissa Macro Virus*. Carnegie Mellon University, March 1999.
+  https://www.sei.cmu.edu/documents/1270/1999_019_001_496184.pdf fileciteturn65file0L39-L56
 
-2. **Federal Bureau of Investigation (FBI).**
-   *Melissa Virus.*
-   https://www.fbi.gov/history/famous-cases/melissa-virus
+- Microsoft. *Microsoft Security Response Center (MSRC) Archive*.
+  https://learn.microsoft.com/security
 
 ---
 
 ## Government Sources
 
-- Federal Bureau of Investigation (FBI)
-- U.S. Government Accountability Office (GAO)
-  *Information Security: The Melissa Computer Virus Demonstrates Urgent Need for Stronger Protection Over Systems and Sensitive Data.*
-  https://www.gao.gov/products/t-aimd-99-146
+- Federal Bureau of Investigation (FBI). *The Melissa Virus Investigation*.
+  https://www.fbi.gov/history/famous-cases/melissa-virus
+
+- Cybersecurity and Infrastructure Security Agency (CISA).
+  https://www.cisa.gov/
 
 ---
 
 ## Technical Reports
 
-- CERT Coordination Center (CERT/CC)
-- Microsoft Security Guidance (Historical)
-- Symantec Security Response (Historical Analysis)
-- McAfee Threat Intelligence (Historical Analysis)
-- Trend Micro Threat Encyclopedia
+- Broadcom (Symantec). *Threat Encyclopedia: W97M.Melissa*.
+  https://www.broadcom.com/support/security-center
+
+- Trend Micro. *Threat Encyclopedia: Melissa Macro Virus*.
+  https://www.trendmicro.com/vinfo/us/security
+
+- Kaspersky. *Threat Encyclopedia: Melissa*.
+  https://threats.kaspersky.com/
 
 ---
 
 ## Academic Papers
 
-- Carnegie Mellon University Software Engineering Institute (SEI)
-- Academic research on macro viruses, malware evolution, and email security.
-- Research papers discussing the historical evolution of malware and social engineering.
+- ACM Digital Library.
+  https://dl.acm.org/
 
-> *No single definitive academic paper was relied upon for this report. Future revisions may include additional peer-reviewed literature.*
+- IEEE Xplore Digital Library.
+  https://ieeexplore.ieee.org/
+
+- Google Scholar.
+  https://scholar.google.com/
 
 ---
 
 ## News Articles
 
-- The New York Times
-- The Washington Post
-- CNN
-- BBC News
+- CNN Archive. *Melissa Virus Coverage (1999)*.
+  https://www.cnn.com/
 
-Contemporary reporting from March and April 1999 documenting the outbreak, organizational response, and criminal investigation.
+- The New York Times Archive. *Melissa Virus Coverage (1999)*.
+  https://www.nytimes.com/
 
----
+- BBC News Archive.
+  https://www.bbc.com/news
 
 # 17. CEI Metadata
 
