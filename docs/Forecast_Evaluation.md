@@ -1,61 +1,131 @@
 # Forecast Evaluation
 
-The mission only matters if forecasts can be tested against reality.
+A forecast only matters if we can come back later and see whether it was any good.
 
-## Forecast Record
+CEI should treat every forecast like something that can be checked, not something that gets a free pass because it sounded intelligent when it was written.
 
-Each forecast should include:
+## What gets recorded?
 
-| Field | Description |
-|---|---|
-| Forecast ID | Stable identifier |
-| Issued | Date and time forecast was made |
-| Target | Trend, technique, behavior, or transition being forecast |
-| Horizon | Expected time window |
+Every forecast should have enough information for someone to understand what was predicted and what the model knew at the time.
+
+| Field | What it means |
+| --- | --- |
+| Forecast ID | Unique ID for the forecast |
+| Issued | When the forecast was published |
+| Information cutoff | The latest information the forecaster was allowed to use |
+| Target | What trend, technique, behavior, or transition is being predicted |
+| Time horizon | When the forecast is expected to become testable |
 | Probability | Estimated likelihood |
 | Evidence | Sources supporting the forecast |
-| Assumptions | Conditions required for the forecast |
-| Alternatives | Competing explanations or scenarios |
-| Indicators | Observable signals to monitor |
-| Falsifier | Result that would count against the forecast |
-| Outcome | What happened afterward |
+| Assumptions | Conditions the forecast depends on |
+| Alternatives | Other explanations or scenarios |
+| Indicators | Signals that could support or weaken the forecast |
+| Falsifier | What result would count against it |
+| Outcome | What actually happened |
 | Assessment | Correct, partially correct, incorrect, or unresolved |
 
-## Core Metrics
+The **information cutoff** is especially important. Without it, hindsight can sneak into the evaluation and make a model look much better than it really was.
 
-### Calibration
+---
 
-Measure whether stated probabilities match observed frequencies.
+# What should we measure?
 
-### Lead Time
+## Calibration
 
-Measure how far in advance a useful signal was identified relative to later observed adoption or impact.
+If a system gives something a probability of 80%, we should eventually be able to check whether events assigned roughly that probability actually happen around 80% of the time across an appropriate set of forecasts.
 
-### Precision
+Confidence should be earned from performance, not just printed beside an answer.
 
-Measure how often flagged future trends correspond to meaningful outcomes.
+## Lead time
 
-### Recall
+How early did the forecast identify the signal compared with when the event or trend actually became observable?
 
-Measure how many meaningful emerging trends were identified.
+A prediction made one day before something happens and a prediction made one year before it happens aren't equally useful.
 
-### False-Positive Cost
+## Precision
 
-Not every incorrect forecast has the same consequence. Track the operational cost of unnecessary defensive work.
+How often did the system flag something that actually turned into a meaningful outcome?
 
-### Defensive Value
+## Recall
 
-A forecast is especially valuable when acting on it measurably improves preparedness, detection, resilience, or time-to-mitigation.
+How many meaningful emerging trends did the system identify?
 
-## Evaluation Rules
+## False-positive cost
 
-1. Preserve the information cutoff used to make each forecast.
-2. Never evaluate a forecast using information that was available only after the forecast date without explicitly labeling the analysis as retrospective.
-3. Compare against simple baselines.
-4. Record uncertainty rather than forcing binary certainty.
-5. Keep incorrect forecasts in the dataset.
-6. Revisit unresolved forecasts when the relevant horizon expires.
+A false alarm isn't free.
 
-## Why This Matters
+If a forecast causes defenders to spend time, money, or attention on something that never materializes, that should be part of the evaluation.
 
-A model that tells compelling stories about possible futures may still have no predictive value. The forecast ledger exists to separate persuasive explanations from demonstrated forecasting performance.
+## Defensive value
+
+The most interesting question is whether a forecast can actually improve defense.
+
+That could mean:
+
+- Earlier detection
+- Better monitoring
+- Better hardening
+- Faster mitigation
+- Better preparedness exercises
+- Better allocation of defensive resources
+
+A prediction can be statistically interesting and still not be useful to a defender.
+
+---
+
+# Evaluation rules
+
+1. Preserve the information cutoff for every forecast.
+2. Do not use future information to judge what the model could have known at the time.
+3. Compare complex systems against simple baselines.
+4. Keep failed forecasts in the record.
+5. Keep unresolved forecasts until their evaluation window closes.
+6. Record changes to forecasts instead of silently overwriting history.
+7. Separate retrospective analysis from genuine forward-looking prediction.
+
+---
+
+# Baselines matter
+
+A complicated model doesn't automatically deserve to win.
+
+CEI should compare forecasting systems against simple approaches such as:
+
+- Persistence
+- Historical frequency
+- Simple trend extrapolation
+- Domain-specific rules
+
+If a giant AI system can't beat a much simpler baseline, that's an important result.
+
+---
+
+# What counts as a good forecast?
+
+A good forecast should be:
+
+**Specific enough to test.**
+
+**Clear about uncertainty.**
+
+**Based on evidence that was actually available.**
+
+**Accompanied by a time horizon.**
+
+**Able to fail.**
+
+That last one matters.
+
+A statement that can never be proven wrong isn't a useful forecast.
+
+---
+
+# The forecast ledger
+
+Long term, CEI should maintain a public or reproducible forecast ledger where predictions remain visible after they are made.
+
+That gives us a historical record of what the system believed, why it believed it, and what happened afterward.
+
+The goal isn't to make the model look impressive.
+
+The goal is to find out whether it actually works.
