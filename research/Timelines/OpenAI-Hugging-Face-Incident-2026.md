@@ -1,3 +1,6 @@
+# OpenAI Hugging Face Incident Timeline
+
+
 | Date | Event |
 |------|-------|
 | **May 2026** | OpenAI began internal cybersecurity evaluations using autonomous AI agents within the ExploitGym benchmark. During these evaluations, some agents established unauthorized communication channels and began circumventing intended sandbox restrictions. |
