@@ -1,167 +1,154 @@
-# 🌍 Cyber Evolution Initiative
 
-> **Understanding the Past. Anticipating the Future.**
+# 🌍 Cyber Evolution Initiative (CEI)
 
-The **Cyber Evolution Initiative (CEI)** is a long-term research initiative dedicated to understanding how cyberspace evolves and exploring whether artificial intelligence can help defenders anticipate emerging cyber threats before they become widespread.
+> **Understanding the past to better prepare for the future.**
 
-Rather than treating cybersecurity as an endless cycle of reaction, CEI explores whether evidence-based forecasting can help defenders prepare **before** emerging threats become common.
+## What is CEI?
 
----
+The **Cyber Evolution Initiative (CEI)** is an open cybersecurity research project built around one question that I can't stop thinking about:
 
-## 🚀 Explore the Initiative
+> **Can we learn enough from the history of cyberspace to help defenders prepare for future threats before they become widespread?**
 
-<p align="center">
-  <a href="./Research">
-    <img src="https://img.shields.io/badge/🔬_Research-Explore-success?style=for-the-badge" />
-  </a>
-  <a href="./Questions">
-    <img src="https://img.shields.io/badge/❓_Questions-Explore-blue?style=for-the-badge" />
-  </a>
-  <a href="./Community">
-    <img src="https://img.shields.io/badge/👥_Community-Join-orange?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/CCRT2/Cyber-Evolution-Initiative/discussions">
-    <img src="https://img.shields.io/badge/💬_Discussions-Participate-purple?style=for-the-badge" />
-  </a>
-  <a href="./ROADMAP.md">
-    <img src="https://img.shields.io/badge/🗺️_Roadmap-View-red?style=for-the-badge" />
-  </a>
-</p>
+Cybersecurity has always been good at explaining what happened.
 
+I'm interested in whether we can do better.
 
-<h1 align="center">Cyber Evolution Initiative (CEI)</h1>
+Not by predicting the future with certainty, but by studying decades of incidents, malware, vulnerabilities, defensive technologies, and attacker behavior to see if there are measurable patterns worth learning from.
 
-<p align="center">
-  A community-driven cybersecurity research initiative documenting the
-  evolution of cyber threats, incidents, malware, vulnerabilities, and
-  defensive technologies.
-</p>
+Maybe the answer is yes.
 
-<p align="center">
-  <a href="https://discord.gg/Dzam3FfGTZ">
-    <img src="https://img.shields.io/badge/💬_Join_the_CEI_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the CEI Discord">
-  </a>
-</p>
----
+Maybe the answer is no.
 
-# 🎯 Mission
-
-Build a new generation of defensive cybersecurity intelligence through scientific research, historical analysis, artificial intelligence, and continuous validation.
-
-The objective is not perfect prediction.
-
-The objective is **better defensive preparedness.**
+Either outcome is valuable if it's backed by evidence.
 
 ---
 
-# ❓ The Question
+# Why I'm Building This
 
-> **Can an AI system learn the evolution of cyberspace well enough to forecast plausible future attack trends before they become common, and can those forecasts be converted into useful defensive action?**
+Every major cyber incident leaves behind data.
+
+Timelines.
+
+Technical reports.
+
+Root causes.
+
+Lessons learned.
+
+Over time, those incidents form the history of cyberspace.
+
+CEI exists to organize that history, connect it together, and ask whether artificial intelligence can help researchers discover patterns that humans might miss.
+
+This isn't about replacing cybersecurity professionals.
+
+It's about giving defenders better information before the next attack happens.
 
 ---
 
-# 🔬 Research
+# The Research Question
 
-The Initiative currently focuses on:
+> **Can AI learn how cyberspace evolves well enough to generate useful defensive forecasts that can be tested, measured, and improved over time?**
 
-| Area | Status |
-|:-----|:------:|
-| Cyber Evolution | 🚧 |
-| Threat Forecasting | 🚧 |
-| Artificial Intelligence | 🚧 |
-| Knowledge Representation | ⏳ |
-| Controlled Simulation | ⏳ |
-| Defensive Validation | ⏳ |
-| Human-AI Collaboration | ⏳ |
+That's the entire project.
+
+Everything else supports answering that question.
 
 ---
 
-# 🏗️ Vision
+# Current Areas of Research
 
-```text
-History
-    │
-    ▼
+- Cyber incident documentation
+- Evolution of attack techniques
+- Artificial intelligence for cybersecurity
+- Threat forecasting
+- Knowledge graphs
+- Defensive validation
+- Human and AI collaboration
+
+---
+
+# The Vision
+
+```
+Cyber History
+      │
+      ▼
 Evidence
-    │
-    ▼
-Understanding
-    │
-    ▼
-Models
-    │
-    ▼
+      │
+      ▼
+Research
+      │
+      ▼
+AI Models
+      │
+      ▼
 Forecasts
-    │
-    ▼
-Simulation
-    │
-    ▼
-Validation
-    │
-    ▼
-Prepared Defense
+      │
+      ▼
+Testing
+      │
+      ▼
+Better Defensive Decisions
 ```
 
----
+The goal isn't perfect prediction.
 
-# 🗺️ Roadmap
-
-- ✅ Foundation
-- 🚧 Build Cyber History
-- ⏳ Model Evolution
-- ⏳ Forecasting
-- ⏳ Scenario Generation
-- ⏳ Controlled Testing
-- ⏳ Defensive Preparation
-- ⏳ Forecast Evaluation
-- ⏳ Autonomous Research Agents
+The goal is giving defenders another source of evidence before new threats become common.
 
 ---
 
-# 📊 Current Status
+# Roadmap
 
-| Category | Progress |
-|:---------|:--------|
-| Stage | Research Foundation |
-| Historical Archive | Growing |
-| Questions | Growing |
-| Forecasting Framework | Planned |
-| AI Agents | Planned |
-| Community | Open |
-
----
-
-# 📖 Core Principles
-
-- Evidence before assumptions
-- A prediction is a hypothesis, not a fact
-- Every forecast should be measurable
-- Uncertainty should always be communicated
-- Failed predictions are valuable data
-- Every conclusion should be open to challenge
+- ✅ Build the foundation
+- 🚧 Document major public cybersecurity incidents
+- ⏳ Build relationships between incidents
+- ⏳ Develop forecasting models
+- ⏳ Test predictions against future events
+- ⏳ Evaluate results
+- ⏳ Improve continuously
 
 ---
 
-# 🤝 Contribute
+# Core Principles
 
-Whether you're a researcher, student, engineer, cybersecurity professional, or simply curious, you're welcome.
-
-You can contribute by:
-
-- ❓ Asking research questions
-- 📚 Contributing historical research
-- 📄 Sharing papers and datasets
-- 🧪 Proposing experiments
-- 💬 Joining discussions
-- 🔍 Challenging assumptions
-
-Every meaningful contribution helps improve our understanding of cyber evolution.
+- Evidence comes before assumptions.
+- Every prediction is a hypothesis.
+- Every hypothesis should be testable.
+- Uncertainty should be documented, not hidden.
+- Failed predictions are still valuable research.
+- Anyone should be able to challenge the conclusions.
 
 ---
 
-# 🌟 North Star
+# Contributing
 
-> **Can humanity understand the evolution of cyberspace well enough to help defenders prepare for emerging threats before they become widespread?**
+Whether you're a student, researcher, security engineer, analyst, or simply someone who enjoys learning about cybersecurity, you're welcome here.
 
-Every document, experiment, discussion, and contribution exists to move one step closer to answering that question.
+You can help by:
+
+- Researching historical incidents
+- Finding technical reports
+- Reviewing documentation
+- Suggesting experiments
+- Asking difficult questions
+- Challenging assumptions
+
+Good research gets stronger when more people are willing to question it.
+
+---
+
+# Looking Ahead
+
+I don't know whether cyber evolution can be modeled well enough to improve defensive forecasting.
+
+That's exactly why CEI exists.
+
+The objective isn't to prove that it's possible.
+
+The objective is to find the answer through research.
+
+If the answer is yes, we've learned something important.
+
+If the answer is no, we've learned something just as valuable.
+
+Either way, we move cybersecurity forward.
