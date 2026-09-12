@@ -1,33 +1,85 @@
 # 🛠️ Learning Resources
 
-Sometimes you don't need another book. You need to actually break something in a lab and figure out why it broke.
+Sometimes reading isn't enough.
 
-These are some of the resources that can help with that.
+You need to open a lab, break something on purpose, stare at an error for 45 minutes, and finally figure out why the hell it happened.
 
-## 1. TryHackMe
+That's what this list is for.
 
-Guided labs and learning paths covering a huge range of security topics. Good when you want structure and don't know what to learn next.
+## Hands-On Platforms
 
-## 2. PortSwigger Web Security Academy
+### TryHackMe
 
-One of the best places to learn web security by actually doing it. The material goes from fundamentals into more advanced web application vulnerabilities, with labs to practice what you're learning.
+Guided rooms and learning paths covering networking, Linux, web security, defensive security, forensics, and a lot more.
 
-## 3. OverTheWire
+Good when you want structure or you're not sure what to learn next.
 
-Simple-looking wargames that can teach a surprising amount about Linux, command-line work, networking, scripting, and security fundamentals.
+### PortSwigger Web Security Academy
 
-## 4. Hack The Box
+One of the best places to learn web security by actually working through vulnerable applications.
 
-A large collection of hands-on machines, challenges, and training material. Useful once you're ready to move beyond guided exercises and start figuring more things out yourself.
+The lessons explain the vulnerability, then the labs make you prove that you understand it.
 
-## 5. CyberDefenders
+### OverTheWire
 
-Focused heavily on the defensive side of security, including digital forensics, incident response, SOC investigations, malware analysis, and threat hunting.
+A collection of wargames built around fundamentals such as Linux, command-line usage, networking, scripting, and security concepts.
 
-## 🧭 Don't Treat a Platform Like a Curriculum
+It looks simple at first.
 
-These platforms are tools, not a replacement for understanding fundamentals.
+That is sometimes the trap.
 
-Getting a box rooted doesn't automatically mean you understand why the vulnerability existed. Finishing a challenge doesn't automatically mean you understand the underlying technique.
+### Hack The Box
 
-Use the labs to learn the mechanics, then go deeper into the theory and the real-world incidents behind them.
+Hands-on machines, challenges, and training content covering offensive security and a lot of adjacent skills.
+
+Especially useful when you want less hand-holding and more figuring things out yourself.
+
+### CyberDefenders
+
+Focused more heavily on blue-team work: digital forensics, incident response, SOC investigations, malware analysis, and threat hunting.
+
+Useful for learning what happens after the alarm goes off.
+
+## Don't Confuse Completion With Understanding
+
+Finishing a room doesn't automatically mean you understand the topic.
+
+Getting a box rooted doesn't automatically mean you understand why the vulnerability existed.
+
+Following a walkthrough doesn't mean you can reproduce the reasoning on your own.
+
+Use these platforms to learn the mechanics.
+
+Then go back to the theory, the source material, and the real incidents behind what you're doing.
+
+That's where the pieces start connecting.
+
+## A Good Learning Loop
+
+```text
+Learn the concept
+      ↓
+Try it in an authorized lab
+      ↓
+Get something wrong
+      ↓
+Figure out why
+      ↓
+Read deeper
+      ↓
+Connect it to a real incident
+      ↓
+Write down what you learned
+```
+
+You don't need to know everything before you start.
+
+You just need to keep going deeper when something makes you curious.
+
+## Adding a Resource
+
+Add something when you think it will genuinely help another person learn.
+
+Say what it teaches, who it is useful for, and anything someone should know before jumping in.
+
+Don't just paste a link and call it research.
