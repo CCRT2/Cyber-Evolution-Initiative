@@ -1,68 +1,45 @@
-# Code of Conduct
+# CEI Community Guidelines
 
-## Our Purpose
+This file is intentionally simple.
 
-This community exists to pursue knowledge through respectful collaboration, scientific curiosity, and evidence-based discussion.
+CEI is a place for research, learning, and debate. People are going to disagree. That's expected.
 
-Everyone is welcome to participate, regardless of experience level, background, or area of expertise, provided they contribute respectfully and constructively.
+## What We Expect
 
-## Our Values
+- Treat people like people.
+- Argue about ideas, evidence, methods, and results.
+- Give criticism without turning it into a personal attack.
+- Give credit when somebody else did the work.
+- Don't deliberately misrepresent somebody else's research.
+- Don't harass, threaten, discriminate against, or target other community members.
+- Don't publish private information about somebody else.
 
-We value:
+## Research Conduct
 
-- Curiosity over certainty.
-- Evidence over speculation.
-- Questions over assumptions.
-- Collaboration over competition.
-- Humility over ego.
-- Learning over being right.
+CEI depends on people being honest about what they know and what they don't know.
 
-## Expected Behavior
+Don't fabricate sources, data, results, quotes, experiments, or incident details.
 
-Members are expected to:
+Don't hide contradictory evidence just because it hurts a favorite hypothesis.
 
-- Treat others with respect.
-- Discuss ideas without attacking people.
-- Support claims with evidence whenever possible.
-- Accept constructive criticism.
-- Admit uncertainty when appropriate.
-- Help create an environment where people feel comfortable asking difficult questions.
+Don't present retrospective information as though it was known at the time of a forecast.
 
-## Unacceptable Behavior
+If you make a mistake, correct it.
 
-The following behaviors are not acceptable:
+## Security Research
 
-- Harassment or discrimination.
-- Personal attacks or insults.
-- Deliberate misinformation.
-- Plagiarism or misrepresentation of another person's work.
-- Disruptive or intentionally inflammatory behavior.
-- Contributions that encourage unauthorized or harmful cybersecurity activity.
+CEI is focused on defensive research and learning. Do not use the community or repository as a place to coordinate unauthorized access, attacks, disruption, credential theft, or other harmful activity.
 
-## Scientific Integrity
+Technical testing should stay inside systems and environments where you have explicit authorization.
 
-This repository is founded on scientific inquiry.
+## Moderation
 
-Hypotheses are not facts.
+Maintainers may remove content or limit participation when it is necessary to keep the community safe and usable.
 
-Predictions are not guarantees.
+When possible, moderation should focus on the behavior and the evidence, not on winning an argument.
 
-Every idea should be open to challenge, testing, revision, or rejection when supported by evidence.
+## The Standard
 
-Being wrong is not failure.
+You don't have to agree with everyone here.
 
-Refusing to learn is.
-
-## Research Ethics
-
-This project is dedicated to defensive cybersecurity research.
-
-Contributors should respect applicable laws, obtain appropriate authorization before conducting security testing, and prioritize responsible disclosure and ethical research practices.
-
-## Building This Community
-
-A strong research community is built one thoughtful contribution at a time.
-
-Whether you contribute a single question, a historical observation, a research paper, or a major feature, your efforts help advance a shared pursuit of understanding.
-
-Thank you for helping build a community dedicated to curiosity, integrity, and evidence-based research.
+You do have to be willing to listen, show your evidence, and accept that you might be wrong.
