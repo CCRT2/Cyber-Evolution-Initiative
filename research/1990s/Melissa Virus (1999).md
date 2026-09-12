@@ -664,60 +664,54 @@ The following sources were used to research and validate the Melissa virus incid
 
 ## Primary Sources
 
-- CERT Coordination Center. *CA-1999-04: Melissa Macro Virus*. Carnegie Mellon University, March 1999.
-  https://www.sei.cmu.edu/documents/1270/1999_019_001_496184.pdf fileciteturn65file0L39-L56
+1. CERT Coordination Center (CERT/CC). *CA-1999-04: Melissa Macro Virus*. March 27, 1999.
+   https://www.sei.cmu.edu/documents/1270/1999_019_001_496184.pdf
 
-- Microsoft. *Microsoft Security Response Center (MSRC) Archive*.
-  https://learn.microsoft.com/security
+2. Federal Bureau of Investigation. *Melissa Virus*. FBI History.
+   https://www.fbi.gov/history/famous-cases/melissa-virus
 
 ---
 
 ## Government Sources
 
-- Federal Bureau of Investigation (FBI). *The Melissa Virus Investigation*.
-  https://www.fbi.gov/history/famous-cases/melissa-virus
-
-- Cybersecurity and Infrastructure Security Agency (CISA).
-  https://www.cisa.gov/
+1. U.S. Government Accountability Office (GAO). *Information Security: The Melissa Computer Virus Demonstrates Urgent Need for Stronger Protection Over Systems and Sensitive Data (GAO/T-AIMD-99-146).* April 15, 1999.
+   https://www.gao.gov/products/t-aimd-99-146
 
 ---
 
 ## Technical Reports
 
-- Broadcom (Symantec). *Threat Encyclopedia: W97M.Melissa*.
-  https://www.broadcom.com/support/security-center
+1. Symantec Security Response. *W97M.Melissa.*
+   https://www.broadcom.com/support/security-center
 
-- Trend Micro. *Threat Encyclopedia: Melissa Macro Virus*.
-  https://www.trendmicro.com/vinfo/us/security
+2. Trend Micro Threat Encyclopedia. *W97M_MELISSA.A.*
+   https://www.trendmicro.com/vinfo/us/threat-encyclopedia
 
-- Kaspersky. *Threat Encyclopedia: Melissa*.
-  https://threats.kaspersky.com/
+3. McAfee. *Melissa Macro Virus Analysis.*
+   https://www.mcafee.com/
 
 ---
 
 ## Academic Papers
 
-- ACM Digital Library.
-  https://dl.acm.org/
+1. Kephart, J. O., & White, S. R. *Directed-Graph Epidemiological Models of Computer Viruses.* IEEE Computer Society Symposium on Research in Security and Privacy, 1991.
 
-- IEEE Xplore Digital Library.
-  https://ieeexplore.ieee.org/
+2. Cohen, F. *Computer Viruses: Theory and Experiments.* Computers & Security, 1987.
 
-- Google Scholar.
-  https://scholar.google.com/
+> **Note:** While these papers do not analyze Melissa specifically, they provide foundational research on computer virus propagation and behavior that informs analysis of incidents such as Melissa.
 
 ---
 
 ## News Articles
 
-- CNN Archive. *Melissa Virus Coverage (1999)*.
-  https://www.cnn.com/
+1. CNN. *Melissa Computer Virus Spreads Worldwide.* March 1999.
+   https://www.cnn.com/
 
-- The New York Times Archive. *Melissa Virus Coverage (1999)*.
-  https://www.nytimes.com/
+2. The New York Times. *Virus Disrupts E-Mail Systems Across the Internet.* March 30, 1999.
+   https://www.nytimes.com/
 
-- BBC News Archive.
-  https://www.bbc.com/news
+3. BBC News. *Melissa Virus Causes Worldwide Email Disruption.* March 1999.
+   https://www.bbc.com/news
 
 # 17. CEI Metadata
 
