@@ -1,112 +1,184 @@
 # Research Question Template
 
-> "A good question is the beginning of every great discovery."
+Use this template when turning an idea into an actual CEI research question.
+
+The goal is not to make the question sound fancy.
+
+The goal is to make it specific enough that somebody can investigate it, disagree with it, and eventually decide whether the evidence supports it.
 
 ---
 
-# Research Question
+## Basic Information
 
 **Title:**
 
 **Category:**
-<!-- Examples: Cybersecurity, AI, Philosophy, Physics, Complex Systems -->
-
-**Difficulty:**
-<!-- Beginner | Intermediate | Advanced | Open Research -->
 
 **Status:**
 - [ ] Open
 - [ ] Investigating
-- [ ] Partially Answered
+- [ ] Partially answered
 - [ ] Answered
 - [ ] Archived
 
----
+**Created:**
 
-# The Question
+**Last updated:**
 
-> Write the research question here.
-
----
-
-# Why It Matters
-
-Explain why answering this question is important.
-
-- What problem does it address?
-- Who could benefit?
-- What impact could answering it have?
+**Author:**
 
 ---
 
-# Background
+## The Question
 
-Provide any historical context, existing knowledge, or previous research related to the question.
+> Write the actual research question here.
 
----
-
-# Current Understanding
-
-Summarize what is currently known.
-
-Include competing ideas or established theories when appropriate.
+Try to make it a question that could eventually have evidence for and against it.
 
 ---
 
-# Unknowns
+## Why This Question?
 
-List the major uncertainties.
+Why is this worth investigating?
+
+What problem are you trying to understand?
+
+What could change if the answer turns out to be yes?
+
+What could change if the answer turns out to be no?
+
+---
+
+## What Do We Already Know?
+
+Summarize the existing evidence.
+
+Include relevant:
+
+- Research papers
+- Incident reports
+- Datasets
+- Historical examples
+- Technical documentation
+- Other credible sources
+
+Don't turn this section into a collection of assumptions. Separate what is known from what is still unclear.
+
+---
+
+## What Don't We Know?
+
+List the important unknowns.
 
 - Unknown #1
 - Unknown #2
 - Unknown #3
 
----
-
-# Hypotheses
-
-Possible explanations or answers.
-
-1. Hypothesis A
-2. Hypothesis B
-3. Hypothesis C
+This is often where the real research problem is hiding.
 
 ---
 
-# Research Directions
+## Hypotheses
 
-Potential ways to investigate the question.
+What are the possible explanations or answers?
 
-- Literature review
+### Hypothesis A
+
+**Statement:**
+
+**Why:**
+
+### Hypothesis B
+
+**Statement:**
+
+**Why:**
+
+### Hypothesis C
+
+**Statement:**
+
+**Why:**
+
+Add or remove hypotheses as needed.
+
+---
+
+## What Would We Expect To See?
+
+For each serious hypothesis, define an observable prediction.
+
+**Prediction:**
+
+**Expected time horizon:**
+
+**Indicators:**
+
+**Falsifier:**
+
+A hypothesis that can't fail is probably too vague.
+
+---
+
+## How Could We Test It?
+
+Possible approaches:
+
 - Historical analysis
-- Simulation
+- Statistical analysis
+- Data collection
 - Machine learning
 - Mathematical modeling
-- Experimentation
-- Data analysis
+- Simulation
+- Controlled experimentation
+- Literature review
+
+Explain why the chosen method can actually answer the question.
 
 ---
 
-# Required Evidence
+## What Evidence Would Be Enough?
 
-What evidence would be needed to answer this question?
+Define what would count as meaningful evidence.
 
-- Historical datasets
-- Research papers
-- Experimental results
-- Threat intelligence
-- Simulations
-- Other
+Also define what would **not** be enough.
+
+This helps prevent moving the goalposts after seeing the results.
 
 ---
 
-# Success Criteria
+## Possible Problems
 
-How would we know meaningful progress has been made?
+What could make the research misleading?
+
+Consider things like:
+
+- Missing data
+- Reporting bias
+- Survivorship bias
+- Selection bias
+- Data leakage
+- Confounding variables
+- Poor measurements
+- Hindsight bias
 
 ---
 
-# Related Questions
+## Results
+
+Leave this section open until the work is actually done.
+
+**Result:**
+
+**Evidence:**
+
+**Limitations:**
+
+**Confidence:**
+
+---
+
+## Related Questions
 
 - Question 1
 - Question 2
@@ -114,23 +186,14 @@ How would we know meaningful progress has been made?
 
 ---
 
-# References
+## References
 
-- Paper
-- Book
-- Website
-- Dataset
-
----
-
-# Notes
-
-Additional thoughts, observations, or future ideas.
+- Source 1
+- Source 2
+- Source 3
 
 ---
 
-**Created:**
+## Notes
 
-**Last Updated:**
-
-**Author:**
+Anything else worth recording while the question is being investigated.
