@@ -1,67 +1,31 @@
-# Melissa Virus
-
-> A 1999 Microsoft Word macro virus that used social engineering and Microsoft Outlook to automatically distribute infected documents, rapidly overwhelming email systems worldwide.
-
----
 
 # 1. Incident Overview
 
-**Incident Name:** Melissa Virus / Melissa Macro Virus
-
-**Incident Type:** Macro virus / Mass-mailing malware / Social-engineering-assisted malware
-
-**Date of Initial Distribution:** March 26, 1999
-
-**Year:** 1999
-
-**Primary Platform:** Microsoft Windows
-
-**Primary Applications Affected:** Microsoft Word 97, Microsoft Word 2000, and Microsoft Outlook
-
-**Malware Type:** Microsoft Word macro virus
-
-**Primary Propagation Mechanism:** Infected Microsoft Word document distributed through email, followed by automated forwarding through Microsoft Outlook
-
-**Initial Distribution Vector:** An infected Microsoft Word document was posted to the Internet newsgroup `alt.sex`, accompanied by a deceptive offer of access codes for adult-content websites. Users who downloaded and opened the document activated the malicious macro code. citeturn0search0turn0search1
-
-**Attributed Author:** David Lee Smith
-
-**Geographic Origin:** United States
-
-**Known Affected Regions:** Worldwide
-
-**Affected Organizations:** More than 300 corporations and government agencies were reportedly affected, with email infrastructure at some organizations becoming sufficiently overloaded that networks had to be shut down. citeturn0search0
-
-**Estimated Disruption:** Approximately one million email accounts were disrupted according to the FBI's retrospective assessment. citeturn0search0
-
-**Estimated Economic Impact:** Approximately **$80 million** in cleanup, recovery, and related costs. citeturn0search0
-
-**Primary Impact:** Email infrastructure disruption, rapid malware propagation, network overload, operational interruption, and significant incident-response and recovery costs.
-
-**Information Theft:** Not the primary objective. The malware was principally designed to propagate itself rather than steal information or directly conduct financial theft. citeturn0search0turn0search1
-
-**Attribution Confidence:** High. Smith admitted creating and distributing the virus and was subsequently prosecuted and sentenced in the United States. citeturn0search1
-
-**Law-Enforcement Response:** The investigation involved the FBI, New Jersey law enforcement, the Monmouth County Prosecutor's Office, and other partners. Smith was arrested on April 1, 1999. citeturn0search1
-
-**Legal Outcome:** Smith pleaded guilty. In May 2002, he was sentenced to 20 months in federal prison and fined $5,000. citeturn0search0turn0search1
-
-**Historical Significance:** Melissa demonstrated how email trust relationships, automated software behavior, and macro-enabled documents could combine to produce extremely rapid malware propagation without requiring a sophisticated network exploit. Its success contributed to increased awareness of malicious email attachments and influenced subsequent approaches to email and macro security. citeturn0search0turn0search3
-
-**CEI Classification:**  
-`1990s → Malware → Macro Viruses → Mass-Mailing Malware → Social Engineering → Email-Based Propagation`
-
-**Primary Research Themes:**
-- Social engineering as an initial-access mechanism
-- Trust exploitation in email communication
-- Macro-enabled document abuse
-- Automated malware propagation
-- Email infrastructure as an amplification mechanism
-- Organizational dependence on centralized communication systems
-- Evolution of malware from standalone infection toward network-assisted propagation
-
-**Primary Sources:** FBI, U.S. Department of Justice, CERT/CC, contemporary government reporting. citeturn0search0turn0search1turn0search36
-
+| **Field** | **Details** |
+|---|---|
+| **Incident Name** | Melissa Virus / Melissa Macro Virus |
+| **Incident Type** | Macro virus, mass-mailing malware, social-engineering-assisted malware |
+| **Initial Distribution** | March 26, 1999 |
+| **Primary Platform** | Microsoft Windows |
+| **Affected Applications** | Microsoft Word 97, Word 2000, Microsoft Outlook |
+| **Malware Type** | Microsoft Word macro virus |
+| **Initial Distribution Vector** | Infected Microsoft Word document posted to the `alt.sex` newsgroup |
+| **Social Engineering Mechanism** | Deceptive offer claiming the document contained access codes for adult websites |
+| **Propagation Mechanism** | Automatically forwarded the infected document through Microsoft Outlook using contacts from the victim's address book |
+| **Attributed Author** | David Lee Smith |
+| **Country of Origin** | United States |
+| **Geographic Impact** | Worldwide |
+| **Organizations Affected** | More than 300 corporations and government agencies |
+| **Estimated Email Accounts Disrupted** | Approximately 1 million |
+| **Estimated Recovery Cost** | Approximately $80 million |
+| **Primary Impact** | Email infrastructure disruption, rapid propagation, network congestion, operational interruption, and recovery costs |
+| **Primary Objective** | Disruption and propagation rather than direct financial theft or information theft |
+| **Attribution Confidence** | High |
+| **Law Enforcement Response** | FBI, New Jersey law enforcement, and Monmouth County Prosecutor's Office |
+| **Arrest** | April 1, 1999 |
+| **Legal Outcome** | Guilty plea; 20 months in federal prison and a $5,000 fine |
+| **Historical Significance** | Demonstrated how trusted email, macro automation, address books, and user interaction could enable extremely rapid malware propagation without requiring a sophisticated network exploit |
+| **CEI Classification** | `1990s → Malware → Macro Viruses → Mass-Mailing Malware → Social Engineering → Email-Based Propagation` |
 ---
 
 ## Executive Summary
