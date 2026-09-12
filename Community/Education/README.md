@@ -1,39 +1,76 @@
-# 📚 Education
+# 📚 CEI Education
 
-This is the part of CEI for learning.
+This is the learning side of CEI.
 
-Cybersecurity is too damn big for one person to know everything. That's why this directory is a collection of things the community has found useful: books, labs, talks, podcasts, articles, courses, and other resources.
+Cybersecurity is way too big for one person to know everything. New vulnerabilities show up, old techniques come back in new forms, and the technology underneath all of it keeps changing.
 
-This isn't meant to be a giant link dump.
+So instead of pretending there is one perfect cybersecurity curriculum, CEI keeps a collection of resources that are actually useful.
 
-A resource should have a reason for being here.
+Books. Labs. Talks. Podcasts. Articles. Courses. Research.
 
-## What You'll Find
+The point is not to collect as many links as possible.
 
-- [📖 Books](./Books.md)
-- [🛠️ Learning Resources](./Learning%20Resources.md)
-- [📰 News & Articles](./News%20%26%20Articles.md)
-- [🎙️ Podcasts](./Podcasts.md)
-- [🎥 Videos & Talks](./Videos%20%26%20Talks.md)
+The point is to help people **learn enough to ask better questions**.
 
-## How to Use This
+## What’s Here
 
-Start with whatever matches what you're trying to learn.
+| Section | What it’s for |
+| --- | --- |
+| [📖 Books](./Books.md) | Longer-form context, history, investigations, and technical references |
+| [🛠️ Learning Resources](./Learning%20Resources.md) | Hands-on labs, platforms, courses, and places to practice |
+| [📰 News & Articles](./News%20%26%20Articles.md) | Current reporting and useful security reading |
+| [🎙️ Podcasts](./Podcasts.md) | Conversations, investigations, interviews, and security news |
+| [🎥 Videos & Talks](./Videos%20%26%20Talks.md) | Conference talks, technical walkthroughs, lectures, and demonstrations |
 
-Want hands-on practice? Use the labs.
+## How CEI Uses These Resources
 
-Want to understand how a real attack happened? Read the books, reports, and articles.
+Education is connected to the research.
 
-Want to hear researchers talk through a problem? Check the podcasts and conference talks.
+A book might give you the history behind an incident.
 
-There's no single correct way to learn security.
+A lab might let you understand the technique yourself.
 
-## Adding Something
+A conference talk might explain how a researcher found something.
 
-Found a resource that actually helped you understand something?
+An article might point you toward an event that deserves deeper investigation.
+
+None of those should automatically become "fact" just because they are published.
+
+For CEI, learning and research should eventually lead back to evidence.
+
+**Learn it. Question it. Verify it. Then use it.**
+
+## What Makes a Good Resource?
+
+A resource belongs here when it adds something useful.
+
+That could mean:
+
+- It explains a difficult idea clearly.
+- It gives useful hands-on practice.
+- It documents an important event.
+- It teaches a technical skill.
+- It provides historical context.
+- It helps connect different parts of cybersecurity together.
+
+Popularity isn't enough.
+
+A resource with millions of views can still be shit.
+
+A resource that only a few people know about can still be incredibly valuable.
+
+## Adding Resources
+
+Found something that helped you understand a topic?
 
 Add it.
 
-Include enough context that someone else knows what they're getting into and why you think it's worth their time.
+Give people enough context to know what the resource is, who it is for, and why it is worth their time.
 
-And please don't add something just because it's popular. Popular and useful are not always the same thing.
+Please also check whether the link still works and avoid adding duplicates.
+
+This section should grow with the community, not become a giant graveyard of dead links.
+
+---
+
+**Learn more. Ask harder questions. Build better understanding.**
