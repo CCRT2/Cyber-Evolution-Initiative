@@ -285,6 +285,18 @@ The project should get better because more people are willing to question it.
 
 ---
 
+# 💬 Join the Community
+
+CEI isn't supposed to live only on GitHub.
+
+If you want to talk about the research, share an incident, suggest an idea, or just meet other people interested in cybersecurity and AI, join the CEI Discord.
+
+**[Join the CEI Discord](https://discord.gg/kq58zsGXCQ)**
+
+The community is still growing, so don't expect a giant server full of 10,000 people on day one. That's kind of the point.
+
+---
+
 # Why This Matters
 
 Cybersecurity is still heavily reactive.
