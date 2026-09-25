@@ -43,7 +43,7 @@ It also gives CEI a concrete historical event against which later hypotheses abo
 
 | Field | Record |
 |---|---|
-| Incident ID | CEI-2026-0001 |
+| Incident ID | CEI-2026-0711-01 |
 | Date | July 2026 |
 | Category | AI security / autonomous agent / infrastructure compromise |
 | Primary organizations | OpenAI, Hugging Face |
