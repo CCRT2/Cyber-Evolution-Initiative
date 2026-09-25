@@ -1,6 +1,6 @@
 # OpenAI–Hugging Face Security Incident (2026)
 
-**Incident ID:** CEI-2026-0711-01       **Date:** July 2026  
+**Incident ID:** CEI-2026-0711-01                        **Date:** July 2026  
 **Category:** AI Security • AI Agent Incident • Infrastructure Compromise  
 **Status:** Resolved  
 **Severity:** Critical  
