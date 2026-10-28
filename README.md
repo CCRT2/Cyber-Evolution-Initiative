@@ -1,348 +1,151 @@
-# 🌍 Cyber Evolution Initiative (CEI)
+<!--
+Cyber Evolution Initiative (CEI)
+Evidence-first research into how cyberspace changes over time.
+-->
 
-> **Understanding the past. Learning from it. Preparing for what comes next.**
+<div align="center">
 
-## What is CEI?
+# 🌐 Cyber Evolution Initiative
 
-The **Cyber Evolution Initiative (CEI)** is an open cybersecurity research project built around a question I've been thinking about for a long time:
+### Understand the past. Model change. Prepare for what comes next.
 
-> **Can we learn enough from the history of cyberspace to help defenders prepare for future threats before they become widespread?**
+**An evidence-first research initiative exploring whether the history of cyberspace can help defenders anticipate emerging threats.**
 
-Cybersecurity is really good at looking backwards.
+<br/>
 
-We investigate an attack after it happens. We write a report. We patch the system. We move on.
+[![Research](https://img.shields.io/badge/Focus-Cyber%20Evolution-0A7EA4?style=for-the-badge)](./Docs/Cyber_Evolution.md)
+[![Methodology](https://img.shields.io/badge/Standard-Evidence%20First-247A57?style=for-the-badge)](./Docs/Research_Methodology.md)
+[![Status](https://img.shields.io/badge/Stage-Research%20%26%20Documentation-C47A24?style=for-the-badge)](./ROADMAP.md)
 
-Then the next attack happens.
+[**Explore the research**](./Research/README.md) · [**Read the methodology**](./Docs/Research_Methodology.md) · [**View the roadmap**](./ROADMAP.md) · [**Contribute**](./Community/CONTRIBUTING.md)
 
-CEI is about asking whether we can use the history we already have to do more than explain the past.
-
-That means collecting major public cybersecurity incidents, vulnerabilities, malware, attack techniques, defensive responses, technical reports, research, and other evidence, then connecting that information together so we can actually study how cyberspace changes over time.
-
-The long-term idea is to test whether AI can find useful patterns in that history and turn those patterns into **defensive forecasts**.
-
-Not fortune telling.
-
-Not claiming we can know exactly what an attacker will do.
-
-Just evidence-based forecasts that can be tested against reality.
-
-And if the idea doesn't work, that's fine too. The point is to find out.
+</div>
 
 ---
 
-# Why I'm Building This
+## The question
 
-Every major cyber incident leaves something behind.
+> **Can we understand how cyberspace evolves well enough to help defenders prepare for emerging threats before they become widespread?**
 
-A timeline.
+Cybersecurity produces an enormous trail of evidence: incidents, vulnerabilities, malware, techniques, defensive changes, technical reports, and lessons learned. These records are often studied individually.
 
-A vulnerability.
+**CEI aims to connect that history into a research foundation** for studying how cyber capabilities emerge, change, spread, and disappear—and for testing whether those patterns can support useful, measurable defensive forecasts.
 
-A malware family.
+This is a research question, not a promised result. Forecasts may fail, signals may be weak, and simpler methods may outperform AI. The evidence decides.
 
-A technical report.
+## How CEI works
 
-A patch.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A lawsuit.
+### 01 · Collect evidence
+Document public incidents, vulnerabilities, techniques, defensive responses, and reliable sources.
 
-A regulation.
+### 02 · Structure knowledge
+Normalize dates and entities, preserve provenance, and connect related events without erasing uncertainty.
 
-A lesson that somebody hopefully learns from.
+### 03 · Study evolution
+Investigate how techniques emerge, combine, spread, mutate, and decline—and how defenses influence those changes.
 
-Individually, those pieces tell us about one event.
+</td>
+<td width="50%" valign="top">
 
-Put enough of them together and they start to become something bigger: a history of how cyberspace has changed.
+### 04 · Form forecasts
+Generate specific, time-bounded hypotheses with explicit probabilities, assumptions, indicators, and falsifiers.
 
-That's what I want CEI to build.
+### 05 · Evaluate honestly
+Compare forecasts with simple baselines using only information available at the forecast cutoff.
 
-A large, structured record of major public cybersecurity incidents and the things connected to them.
+### 06 · Improve defense
+Test whether validated findings can inform practical defensive priorities, under human review and within authorized environments.
 
-The goal is not just to make another incident database.
+</td>
+</tr>
+</table>
 
-The goal is to make the history **useful for research**.
-
----
-
-# The Big Question
-
-> **Can an AI system learn how cyberspace evolves well enough to forecast plausible future attack trends before those trends become common, and can those forecasts be turned into useful defensive action?**
-
-I don't know the answer.
-
-That's the point.
-
-CEI is an attempt to actually test the question instead of assuming the answer is yes.
-
----
-
-# What CEI Is Trying to Build
-
-CEI is being developed around a few major pieces:
-
-- **Cyber History** — Document major public cyber incidents and the evidence around them.
-- **Knowledge Representation** — Connect incidents, vulnerabilities, malware, techniques, organizations, defenses, laws, and other related information.
-- **Research** — Study how attacks and defensive technologies change over time.
-- **AI** — Test whether machine learning and AI systems can find useful patterns in that history.
-- **Forecasting** — Generate measurable predictions about plausible future trends.
-- **Validation** — Compare those predictions with what actually happens.
-- **Defensive Preparation** — Explore whether useful forecasts can improve how defenders prepare.
-
----
-
-# The Idea
-
-```text
-Cyber History
-      │
-      ▼
-Evidence
-      │
-      ▼
-Research
-      │
-      ▼
-Patterns
-      │
-      ▼
-AI Models
-      │
-      ▼
-Forecasts
-      │
-      ▼
-Testing
-      │
-      ▼
-Validation
-      │
-      ▼
-Defensive Preparation
+```mermaid
+flowchart TD
+    A[Public evidence] --> B[Structured cyber history]
+    B --> C[Relationships and evolution]
+    C --> D[Research hypotheses]
+    D --> E[Forecasts with uncertainty]
+    E --> F[Evaluation against baselines]
+    F --> G[Defensive insights]
+    G --> H[Observed outcomes]
+    H -->|Lessons and corrections| B
+    F -->|Failures are retained| D
 ```
 
-The important part is **validation**.
+**The feedback loop is the point.** A forecast should remain inspectable after it is made. Successes and failures both become part of the evidence.
 
-A prediction that sounds smart but can't be measured doesn't help much.
+## Research status
 
-CEI is interested in forecasts that can eventually be checked against real events.
+CEI is currently focused on establishing the research archive, documentation, and methodology. The complete forecasting pipeline is a long-term objective, not a claim that a production forecasting system already exists.
 
-If a model makes a prediction, we should be able to come back later and ask:
+| Workstream | Current state |
+|---|---|
+| Public incident research | In progress |
+| Research methodology and architecture | Documented; expected to evolve |
+| Structured, queryable knowledge base | Planned / early design |
+| Forecasting models and automated evaluation | Planned |
+| Controlled validation and defensive decision support | Planned |
 
-**Was it right? Was it wrong? How wrong was it? Why?**
+See the [full roadmap](./ROADMAP.md) for phases and exit conditions.
 
-Failed predictions aren't something to hide.
+## Explore the project
 
-They're data.
+| Area | What you'll find |
+|---|---|
+| [Research archive](./Research/README.md) | Incident reports, timelines, vulnerability research, and related evidence |
+| [AI architecture](./Docs/AI_Architecture.md) | Proposed components and the research feedback loop |
+| [Cyber evolution](./Docs/Cyber_Evolution.md) | Concepts for studying changes across the cyber ecosystem |
+| [Research methodology](./Docs/Research_Methodology.md) | Hypotheses, evidence standards, baselines, and temporal discipline |
+| [Forecast evaluation](./Docs/Forecast_Evaluation.md) | Calibration, lead time, false positives, and outcome assessment |
+| [Ethics and safety](./Docs/Ethics%20and%20Safety.md) | Authorization, dual-use review, and human oversight |
+| [Research questions](./Questions.md) | Open questions across connected disciplines |
+| [Community and education](./Community/README.md) | Ways to participate and curated learning resources |
+| [Mission](./Mission.md) · [Philosophy](./Philosophy.md) | The long-term motivation behind CEI |
 
----
+## Research principles
 
-# Current Research Areas
+- **Evidence before assumptions.** Trace important claims to sources; label interpretation and uncertainty.
+- **Time matters.** Preserve when information became available to prevent hindsight and temporal leakage.
+- **Baselines before complexity.** AI must be compared with meaningful simple methods.
+- **Forecasts must be falsifiable.** Define the target, horizon, indicators, and what would count against the claim.
+- **Keep the failures.** Do not silently rewrite forecasts or discard inconvenient outcomes.
+- **Human accountability.** AI outputs support review; they do not replace responsible human decisions.
+- **Authorized research only.** Active testing belongs in explicitly authorized, controlled environments.
 
-| Area | Status |
-| --- | --- |
-| Cyber Incident Documentation | 🚧 In Progress |
-| Cyber Evolution Research | 🚧 In Progress |
-| Threat Forecasting | ⏳ Planned |
-| Knowledge Representation | ⏳ Planned |
-| AI / Machine Learning | ⏳ Planned |
-| Controlled Simulation | ⏳ Planned |
-| Defensive Validation | ⏳ Planned |
-| Human-AI Collaboration | ⏳ Planned |
+Read the full [research methodology](./Docs/Research_Methodology.md) and [ethics and safety policy](./Docs/Ethics%20and%20Safety.md).
 
----
+## Contribute to CEI
 
-# Building the Cyber History
+A useful contribution doesn't have to be code. You can:
 
-This is where CEI starts.
+- Add a well-sourced public incident or timeline.
+- Find primary sources and correct unsupported claims.
+- Connect an incident to relevant vulnerabilities, techniques, or defensive changes.
+- Propose a falsifiable research question or baseline.
+- Improve documentation, data quality, tooling, or evaluation.
+- Challenge assumptions respectfully—with evidence.
 
-The first priority is creating high-quality records for major **publicly known** cybersecurity incidents.
+Start with the [contribution guide](./Community/CONTRIBUTING.md) and the [research archive](./Research/README.md).
 
-An incident record can eventually include things like:
+[![Join the CEI Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kq58zsGXCQ)
 
-- What happened
-- When it happened
-- Who was affected
-- Initial access
-- Attack chain
-- Vulnerabilities involved
-- Malware or tooling involved
-- Techniques used
-- Detection and response
-- Impact
-- Technical reports
-- Public disclosures
-- Relevant laws or regulations
-- Legal action, when applicable
-- Lessons learned
-- Related incidents
+## What CEI is—and isn't
 
-The structure will evolve as the research evolves.
+CEI is an attempt to test whether historical cyber evidence can support better understanding and preparation. It is **not** a claim that the future can be predicted perfectly, that AI is automatically superior to analysts, or that a proposed architecture has already been validated.
 
-The important part is getting the underlying evidence organized correctly first.
-
----
-
-# Core Principles
-
-### Evidence before assumptions
-
-If something is known, cite the evidence.
-
-If something is uncertain, say that it's uncertain.
-
-If something is an interpretation, label it as an interpretation.
-
-### Predictions are hypotheses
-
-A forecast is not a fact.
-
-It is a hypothesis about what might happen.
-
-### Everything should be measurable
-
-A prediction should eventually be something we can evaluate.
-
-### Uncertainty matters
-
-There will always be things we don't know.
-
-That doesn't make the research useless. It makes documenting uncertainty important.
-
-### Failure is part of the research
-
-Some ideas will fail.
-
-Some models will be wrong.
-
-Some predictions will completely miss.
-
-That's useful information too.
-
-### Challenge the work
-
-CEI should be open to criticism.
-
-If an assumption is wrong, I want it challenged.
-
-If the data doesn't support a conclusion, the conclusion should change.
+The project should change when the evidence demands it. If a hypothesis fails, the record should say so. If a simple model wins, that result matters.
 
 ---
 
-# What CEI Is Not
+<div align="center">
 
-CEI is **not** claiming that the future of cybersecurity can be predicted perfectly.
+**Understand the evolution. Test the forecast. Measure the value.**
 
-It is not trying to replace security professionals.
+<sub>CEI is an evolving research initiative. Documentation describes current intent and planned work; implementation status is stated explicitly wherever possible.</sub>
 
-It is not assuming that AI automatically makes better decisions than humans.
-
-And it is not starting with the assumption that the research will prove the idea works.
-
-The research has to earn that conclusion.
-
----
-
-# Roadmap
-
-- ✅ Project foundation
-- 🚧 Build the historical incident archive
-- 🚧 Define the data structure and relationships
-- ⏳ Expand the knowledge graph
-- ⏳ Study patterns in cyber evolution
-- ⏳ Develop forecasting methods
-- ⏳ Generate testable forecasts
-- ⏳ Compare forecasts against future events
-- ⏳ Measure accuracy and failure modes
-- ⏳ Explore controlled simulations
-- ⏳ Develop defensive applications
-- ⏳ Build autonomous research agents
-
-This roadmap will change.
-
-That's expected.
-
----
-
-# Contributing
-
-CEI is open to people who want to help research this problem.
-
-You don't need to be a professor, security engineer, or AI researcher to contribute.
-
-You can help by:
-
-- Documenting a public incident
-- Finding a primary source
-- Checking an existing entry
-- Mapping relationships between incidents
-- Finding research papers or datasets
-- Proposing experiments
-- Reviewing assumptions
-- Challenging conclusions
-- Building tools around the dataset
-
-The project should get better because more people are willing to question it.
-
----
-
-# 💬 Join the Community
-
-CEI isn't supposed to live only on GitHub.
-
-If you want to talk about the research, share an incident, suggest an idea, or just meet other people interested in cybersecurity and AI, join the CEI Discord.
-
-**[Join the CEI Discord](https://discord.gg/kq58zsGXCQ)**
-
-The community is still growing, so don't expect a giant server full of 10,000 people on day one. That's kind of the point.
-
----
-
-# Why This Matters
-
-Cybersecurity is still heavily reactive.
-
-Something happens.
-
-We investigate it.
-
-We figure out how it worked.
-
-Then we try to stop the next version of it.
-
-I'm interested in whether we can move at least part of that process further forward.
-
-Maybe historical cyber data contains patterns that can help us see where things are going.
-
-Maybe it doesn't.
-
-Maybe the signal is too weak.
-
-Maybe attackers adapt too quickly.
-
-Maybe humans are better at some parts of the problem and AI is better at others.
-
-There are a lot of possibilities.
-
-CEI is about testing them.
-
----
-
-# North Star
-
-> **Can humanity understand the evolution of cyberspace well enough to help defenders prepare for emerging threats before they become widespread?**
-
-That's the question behind this project.
-
-The incident archive, the research, the models, the experiments, the forecasts, and everything else in CEI exist to help answer it.
-
-I don't know where the research will end up.
-
-I just think the question is worth answering.
-
----
-
-## Status
-
-CEI is an active research project and the structure will continue to change as the work develops.
-
-**This is the beginning, not the finished product.**
+</div>
